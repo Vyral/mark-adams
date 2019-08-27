@@ -31,7 +31,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.markadamsteam.com/listings-search/#/2033763787
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -45,7 +45,12 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Richmond Home?"
     CTA_text2: "Search the entire MLS for your Richmond home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.markadamsteam.com/listings-search/#/2033763787
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.jpg
+    CTA_link_text3: "Client Testimonials"
+    CTA_url3: https://www.markadamsteam.com/testimonials/
 
 lender:
   show_section: false
@@ -112,7 +117,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: '#000000'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'

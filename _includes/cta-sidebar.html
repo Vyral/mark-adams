@@ -54,3 +54,21 @@
 	</div>
 </div>
 {% endfor %}
+
+
+
+{% for cta in site.data.settings.third_sidebar_CTA %}
+<div class="cta-sidebar-container">
+	<div class="cta-img-container">
+		<a href="{{cta.CTA_url3}}" target="_blank">
+		<img src="{{cta.CTA_image_path3}}" alt="" />
+	</a>
+	</div>
+	<br><br>
+	<div class="ctacontainer">
+		<a class="ctalink" href="{{cta.CTA_url3}}" target="_blank">
+			{{cta.CTA_link_text3 | replace: '-- MARKET --', site.data.settings.client.market}}
+		</a>
+	</div>
+</div>
+{% endfor %}
