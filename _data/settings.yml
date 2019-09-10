@@ -53,17 +53,19 @@ third_sidebar_CTA:
     CTA_url3: https://www.markadamsteam.com/testimonials/
 
 lender:
-  show_section: false
-  header_text: Preferred Lender
+  show_section: true
+  header_text: Local Lender
   headshot_path: /img/lender-headshot.jpg
   logo_path: /img/lender-logo.png
-  name:
-  license_number:
-  company:
+  name: Greg Cowart
+  license_number: 'NMLS #: 204399'
+  company: Branch Manager | Loan Originator
   company_license_number:
-  phone:
-  email:
-  url:
+  phone: 804-306-6463
+  email: gcowart@nfmlending.com
+  url: http://gregcowart.com
+  lender_cta: https://bp.nfmlending.com/apply/gcowart
+  lender_cta_text: Apply Now
 
 socials:
   review_sm_icons: false

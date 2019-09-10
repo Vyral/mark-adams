@@ -27,12 +27,23 @@
 		<a href="mailto:{{site.data.settings.lender.email}}">{{site.data.settings.lender.email}}</a><br>
 		{% endif %}
 		{% if site.data.settings.lender.url != null %}
-		<a href="{{site.data.settings.lender.url}}">{{site.data.settings.lender.url | remove: 'http://' | remove: 'https://'}}</a>
+		<a href="{{site.data.settings.lender.url}}" target="_blank">{{site.data.settings.lender.url | remove: 'http://' | remove: 'https://'}}</a>
 		{% endif %}
 	</p>
 	</div>
+	<br>
 	<div class="lender-logo">
+		<a href="{{site.data.settings.lender.url}}" target="_blank">
 		<img src="{{site.data.settings.lender.logo_path}}"/>
+		</a>
 	</div>
+	<br>
+
+	<div class="ctacontainer center">
+		<a class="ctalink" href="{{site.data.settings.lender.lender_cta}}" target="_blank">
+			{{site.data.settings.lender.lender_cta_text}}
+		</a>
+	</div>
+
 </div>
 {% endif %}
