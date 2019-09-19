@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is 2019 the Best Time to Sell?
-date: 2019-09-19 18:12:45
+date: 2019-09-19 18:12:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -14,8 +14,8 @@ pullquote: >-
   alike.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/2019yt.jpg
 youtube_code: vNnKDmMrjd0
 ---
 
