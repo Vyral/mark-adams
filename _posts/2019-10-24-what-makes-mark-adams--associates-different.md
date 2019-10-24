@@ -6,7 +6,7 @@ tags:
 excerpt: >-
   What makes Mark Adams & Associates stand out among other real estate
   companies? Find out today.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Mark+Adams/Videos/2019/V1.mp4'
 pullquote: Everyone on our team has a passion for helping and serving others.
 enclosure_type: video/mp4
 enclosure_time:
