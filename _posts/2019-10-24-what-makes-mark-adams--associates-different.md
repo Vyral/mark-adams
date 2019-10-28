@@ -11,7 +11,7 @@ pullquote: Everyone on our team has a passion for helping and serving others.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/needsyt-1.jpg
+youtube_alternate_image: /uploads/needs2yt.jpg
 youtube_code: hfNqEclI_Hs
 ---
 
