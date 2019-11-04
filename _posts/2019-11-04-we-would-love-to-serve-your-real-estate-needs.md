@@ -1,14 +1,14 @@
 ---
 layout: post
 title: We Would Love to Serve Your Real Estate Needs
-date: 2019-11-04 19:45:15
+date: 2019-11-04 19:45:00
 tags:
   - Real Estate
 excerpt: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/Videos/2019/We+Would+Love+to+Serve+Your+Real+Estate+Needs.mp4
-enclosure: >-
   What makes Mark Adams & Associates stand out among other real estate
   companies? Find out today.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/Videos/2019/We+Would+Love+to+Serve+Your+Real+Estate+Needs.mp4
 pullquote: Everyone on our team has a passion for helping and serving others.
 enclosure_type: video/mp4
 enclosure_time:
