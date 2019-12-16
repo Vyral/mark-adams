@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Holidays to You From The Mark Adams Team!
+title: Happy Holidays to You From Mark Adams & Associates!
 date: 2019-12-16 00:00:00
 tags:
   - Real Estate
