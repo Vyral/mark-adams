@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/christmasyt-4.jpg
+youtube_alternate_image: /uploads/christmasyt-5.jpg
 youtube_code: tG6_97m7eF4
 ---
 
