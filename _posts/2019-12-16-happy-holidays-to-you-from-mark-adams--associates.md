@@ -8,7 +8,7 @@ excerpt: >-
   The holiday season has officially arrived. We hope you enjoy this wonderful
   time of year and make some fantastic memories with your family and friends.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/Videos/2019/Happy+Holidays+to+You+From+Mark+Adams+%26+Associates!+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/Videos/2019/Happy+Holidays+to+You+From+Mark+Adams+%26+Associates!+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
