@@ -21,7 +21,7 @@ youtube_code: 7N_L6hhtmxQ
 
 {% include youtube.html %}
 
-Happy New Year\! **I hope the new year is starting out wonderfully for you.** You know about new year’s resolutions, but have you ever considered including your home in them?&nbsp;
+Happy New Year\! **I hope the new year is starting out wonderfully for you.** You know about New Year’s resolutions, but have you ever considered including your home in them?&nbsp;
 
 At the beginning of the year, my wife and I make a list of all the things we want to accomplish in or on our house that year. Everything from larger projects like adding a porch, to smaller things like painting a room. Typically, your home is the single largest investment you’ll make. Maintaining your home truly helps you get an exceptional return when it comes time to sell.&nbsp;
 
