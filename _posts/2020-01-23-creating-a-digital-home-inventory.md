@@ -25,8 +25,6 @@ Theft, fire, and flooding can happen to homeowners. Do you know what you would n
 
 First, using your phone or video camera, walk through your home and videotape each room, including every wall. This way you can show an insurance adjuster what your home looked like before the claim. Then take pictures of electronics, front and back, with the serial numbers. Take photos of the appraisals for jewelry, silver, expensive eyeglasses, artwork, tools, and any valuable collectibles.
 
-{% include pullquote.html %}
-
 Remember: **Any time you bring home a new laptop, computer, or anything of value, be sure to snap a photo of the serial number** right on the box. Keeping the receipt is a great idea, too.&nbsp;
 
 Lastly, upload your digital photo album to your online storage service. We use Dropbox, but you could use any photo storage site. Google Photos, iCloud, and Photobucket are common choices. Don’t use Facebook, as we don’t want to give burglars any ideas.&nbsp;
