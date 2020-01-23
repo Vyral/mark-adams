@@ -21,7 +21,7 @@ youtube_code: MZOGStZjSOY
 
 What if a fire destroyed your home? What if most of the damaged areas are unrecognizable? How would you prove what personal property was lost? I hope this never happens to you, but I’m sharing some tips for how to create a digital home inventory in case of any disastrous events.&nbsp;
 
-Theft, fire, and flooding all happen to homeowners. Do you know what you would need to provide to the insurance company to get those items replaced?&nbsp;
+Theft, fire, and flooding can happen to homeowners. Do you know what you would need to provide to the insurance company to get those items replaced?&nbsp;
 
 First, using your phone or video camera, walk through your home and videotape each room, including every wall. This way you can show an insurance adjuster what your home looked like before the claim. Then take pictures of electronics, front and back, with the serial numbers. Take photos of the appraisals for jewelry, silver, expensive eyeglasses, artwork, tools, and any valuable collectibles.
 
