@@ -8,13 +8,13 @@ excerpt: >-
   Today I’m sharing tips for how to create a digital home inventory and why this
   is crucial.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/Videos/2019/Creating+a+Digital+Home+Inventory+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/Videos/2019/Creating+a+Digital+Home+Inventory+(2).mp4
 pullquote: 'Theft, fire, and flooding all happen to homeowners.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/digital-yt.jpg
-youtube_code: eCJ6ezUiS_s
+youtube_code: XvvfJknrIPs
 ---
 
 {% include youtube.html %}
