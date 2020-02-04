@@ -17,20 +17,20 @@ youtube_code: woNx9Mi8bOc
 
 {% include youtube.html %}
 
-What do women really want on Valentine’s Day? I brought together a group of my most favorite ladies in the world: my team, Amy, Lisa, and Chloe. I’m going to ask them some questions, and their answers may enlighten you about what women want.&nbsp;
+What do women really want on Valentine’s Day? I brought together my favorite group of ladies: my team, Amy, Lisa, and Chloe. I’m going to ask them some questions, and their answers may enlighten you about what women want.&nbsp;
 
 **Do your Valentine’s Day desires fall more in line with Hallmark or HGTV?**
 
 * Chloe: Is the food network an option? As long as he’s cooking for me.
 * Amy: I like a little romance, but I also like projects. So I would want a pot for cooking, chocolates, perfume, or jewelry.&nbsp;
-* Lisa: For me it’s HGTV, I want those projects done. Make me something pretty.
+* Lisa: For me it’s HGTV; I want those projects done. Make me something pretty.
 
 {% include pullquote.html %}
 
 **What’s the last thing you’d ever want on Valentine’s Day?**
 
 * Chloe: I do not want another singing card\!
-* Amy: Don’t buy me golf clubs, you can get me lessons, but not the actual clubs.
+* Amy: Don’t buy me golf clubs; you can get me lessons, but not the actual clubs.
 * Lisa: No fishing pole. I don’t want to go fishing, talk about fishing, or shop for fishing lures.&nbsp;
 
 **What’s the perfect Valentine’s Day gift?**
