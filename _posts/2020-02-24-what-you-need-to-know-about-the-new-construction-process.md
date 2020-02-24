@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About the New Construction Process
-date:
+date: 2020-02-24 17:39:43
 tags:
 excerpt: >-
   Here’s some essential information to know if you’ve considered buying a new
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/const-yt-mark-adams.jpg
 youtube_code: UlmcUdKF2Ls
 ---
 
-{% include youtube.html %}<center>Here’s some essential information to know if you’ve considered buying a new construction property.Here’s some essential information to know if you’ve considered buying a new construction property.</center>
+{% include youtube.html %}
+
+<center>Here&rsquo;s some essential information to know if you&rsquo;ve considered buying a new construction property.Here&rsquo;s some essential information to know if you&rsquo;ve considered buying a new construction property.</center>
+
+&nbsp;
 
 Amy “The Miracle Maker” Baker works a 50/50 split between new construction and resale homes. Since inventory is pretty slim, many are turning to new construction right now. Today she joins me to discuss why you need an experienced agent like her to help you navigate the new construction process.
 
