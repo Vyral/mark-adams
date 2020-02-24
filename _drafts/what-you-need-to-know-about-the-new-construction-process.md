@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/const-yt-mark-adams.jpg
 youtube_code: UlmcUdKF2Ls
 ---
 
-{% include youtube.html %}Here’s some essential information to know if you’ve considered buying a new construction property.Here’s some essential information to know if you’ve considered buying a new construction property.
+{% include youtube.html %}<center>Here’s some essential information to know if you’ve considered buying a new construction property.Here’s some essential information to know if you’ve considered buying a new construction property.</center>
 
 Amy “The Miracle Maker” Baker works a 50/50 split between new construction and resale homes. Since inventory is pretty slim, many are turning to new construction right now. Today she joins me to discuss why you need an experienced agent like her to help you navigate the new construction process.
 
