@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About the New Construction Process
-date: 2020-02-24 17:39:43
+date: 2020-02-24 17:39:00
 tags:
 excerpt: >-
   Here’s some essential information to know if you’ve considered buying a new
@@ -19,7 +19,7 @@ youtube_code: UlmcUdKF2Ls
 
 {% include youtube.html %}
 
-<center>Here&rsquo;s some essential information to know if you&rsquo;ve considered buying a new construction property.Here&rsquo;s some essential information to know if you&rsquo;ve considered buying a new construction property.</center>
+<center>Here&rsquo;s some essential information to know if you&rsquo;ve considered buying a new construction property.</center>
 
 &nbsp;
 
@@ -37,7 +37,7 @@ The timeline for new construction can definitely be a downside; Amy has seen man
 
 **&nbsp;What’s the difference between a production builder and a custom builder?**
 
-Production builders are cost-conscious; they’ll provide you with a few lot selections, floor plans, and finish packages to choose from. This keeps prices down and buyers from getting overwhelmed by all the options they have.
+Production builders are cost-conscious; they’ll provide you with a few lot selections, floor plans, and finish packages to choose between. This keeps prices down and buyers from getting overwhelmed by all the options they have.
 
 Custom builders give you a lot more choice over how the house is designed like your flooring, paint colors, trim, hardware, etc., so they involve a bigger time commitment.
 
