@@ -23,7 +23,7 @@ youtube_code: 7sVzalPewyA
 
 &nbsp;
 
-Amy “The Miracle Maker” Baker works a 50/50 split between new construction and resale homes. Since inventory is pretty slim, many are turning to new construction right now. Today she joins me to discuss why you need an experienced agent like her to help you navigate the new construction process.
+Amy “The Miracle Maker” Baker splits her time between the resale market and new construction. Since inventory is pretty slim, many are turning to new construction right now. Today she joins me to discuss why you need an experienced agent like her to help you navigate the new construction process.
 
 **What are the differences between buying new construction and resale homes?**
 
