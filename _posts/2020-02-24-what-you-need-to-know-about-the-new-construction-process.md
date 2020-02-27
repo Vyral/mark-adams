@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/const-yt-mark-adams.jpg
-youtube_code: UlmcUdKF2Ls
+youtube_code: 7sVzalPewyA
 ---
 
 {% include youtube.html %}
