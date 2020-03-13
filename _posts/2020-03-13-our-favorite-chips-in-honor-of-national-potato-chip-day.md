@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Our Favorite Chips, in Honor of National Potato Chip Day'
-date:
+date: 2020-03-13 17:18:29
 tags:
 excerpt: >-
   March 14 is National Pie Day and National Chip Day. Today we’re celebrating in
