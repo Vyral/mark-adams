@@ -11,7 +11,7 @@ pullquote: What’s your favorite chip?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/chips-yt-markadams.jpg
 youtube_code: NIecjPmcG_c
 ---
 
