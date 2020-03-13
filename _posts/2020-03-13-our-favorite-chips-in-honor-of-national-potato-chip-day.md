@@ -17,7 +17,7 @@ youtube_code: NIecjPmcG_c
 
 {% include youtube.html %}
 
-March 14 is National Pie Day and National Chip Day. Today we’re celebrating in advance.
+March 14 is National Pi(e) Day and National Chip Day. Today we’re celebrating in advance.
 
 Did you know that March 14 is National Potato Chip Day? **In honor of the occasion, I wanted to get together with my team to discuss some of our favorite salty, crispy, and crunchy treats.**
 
@@ -31,6 +31,6 @@ Lisa brought Andy Capp Hot Fries, which she wasn’t introduced to until she met
 
 Annie brought a local treat, Mama Saba’s Pita Chips. They are a scrumptious, slightly healthier alternative to potato chips. She also brought Dorito’s, which she used to put on a sandwich with mayo and country ham when she was younger and in school.
 
-**March 14 is also National Pie Day, and I got a close-up view of one at 3:30 in the video above.**
+**March 14 is also National Pi(e) Day, and I got a close-up view of one at 3:30 in the video above.**
 
-What’s your favorite chip? What’s your favorite pie? Let us know in the comments. If you have any questions for us in the meantime, don’t hesitate to reach out via phone or email. We look forward to hearing from you.
+What’s your favorite chip? What’s your favorite pi(e)? Let us know in the comments. If you have any questions for us in the meantime, don’t hesitate to reach out via phone or email. We look forward to hearing from you.
