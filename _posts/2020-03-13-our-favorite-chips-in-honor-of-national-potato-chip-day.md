@@ -27,7 +27,7 @@ Chloe’s are Pringles, which bring back fond memories of her mom sending her ca
 
 {% include pullquote.html %}
 
-Lisa brought Andy Capp Hot Fries, which she wasn’t introduced to until she met me. In addition to being crunch and crispy, they add a little bit of spice.
+Lisa brought Andy Capp Hot Fries, which she wasn’t introduced to until she met me. In addition to being crunchy and crispy, they add a little bit of spice.
 
 Amy brought a local treat, Mama Saba’s Pita Chips. They are a scrumptious, slightly healthier alternative to potato chips. She also brought Dorito’s, which she used to put on a sandwich with mayo and country ham when she was younger and in school.
 
