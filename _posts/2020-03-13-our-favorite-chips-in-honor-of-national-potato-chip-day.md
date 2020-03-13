@@ -1,18 +1,18 @@
 ---
 layout: post
 title: 'Our Favorite Chips, in Honor of National Potato Chip Day'
-date: 2020-03-13 17:18:29
+date: 2020-03-13 17:18:00
 tags:
 excerpt: >-
   March 14 is National Pie Day and National Chip Day. Today we’re celebrating in
   advance.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/National+Chip+Day.mp4'
 pullquote: What’s your favorite chip?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: NIecjPmcG_c
 ---
 
 {% include youtube.html %}
