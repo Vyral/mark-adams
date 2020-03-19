@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Our Current Market: Is Now a Good Time to Buy or Sell?'
-date:
+date: 2020-03-19 17:27:11
 tags:
   - Market Update
   - Real Estate
