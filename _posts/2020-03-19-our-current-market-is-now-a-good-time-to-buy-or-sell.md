@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Our Current Market: Is Now a Good Time to Buy or Sell?'
-date: 2020-03-19 17:27:11
+date: 2020-03-19 17:27:00
 tags:
   - Market Update
   - Real Estate
@@ -20,7 +20,7 @@ youtube_code: N2wNavHCUNI
 
 {% include youtube.html %}
 
-Hi there, Mark Adams here. I hope you and your family are staying well. I wanted to address the questions I’ve been getting lately regarding our current market
+Hi there, Mark Adams here. I hope you and your family are staying well. I wanted to address the questions I’ve been getting lately regarding our current market.
 
 “Mark, what’s really going on in the marketplace right now? Is now a good time to sell my house, or should we wait?
 
