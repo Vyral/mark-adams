@@ -1,13 +1,13 @@
 ---
 layout: post
 title: A Glimpse Into My New Normal
-date: 2020-04-09 17:10:13
+date: 2020-04-09 17:10:00
 tags:
-  - Light Hearted
 excerpt: >-
   Here’s a light-hearted look at how I’m keeping my real estate business moving
   in these unusual times.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/A+Glimpse+Into+My+New+Normal.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
