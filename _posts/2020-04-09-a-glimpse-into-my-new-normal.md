@@ -18,7 +18,7 @@ youtube_code: ef-WiNBcfQs
 
 {% include youtube.html %}
 
-<<p style="text-align:center">Here’s a light-hearted look at how I’m keeping my real estate business moving in these unusual times.</p>
+<<p style="text-align:center"><em>Here’s a light-hearted look at how I’m keeping my real estate business moving in these unusual times.</em></p>
 
 Everyone is adjusting to the ‘new normal’ as COVID-19 continues to impact every aspect of our daily lives—it’s no different for our business, either. Today, instead of offering market statistics or future projections, I thought I’d share something on a lighter note. I’m giving you exclusive access into my new typical day at the office\! Some of my morning rituals remain the same, but the commute sure looks different… Hope this leaves you smiling\!&nbsp;
 
