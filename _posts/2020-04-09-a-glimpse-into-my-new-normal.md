@@ -13,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/day-yt-mark-adams.jpg
-youtube_code: ef-WiNBcfQs
+youtube_code: Ud6DhqT6p6s
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Here’s a light-hearted look at how I’m keeping my real estate business moving in these unusual times.</em></p>
+*Here’s a light-hearted look at how I’m keeping my real estate business moving in these unusual times.*
 
 Everyone is adjusting to the ‘new normal’ as COVID-19 continues to impact every aspect of our daily lives—it’s no different for our business, either. Today, instead of offering market statistics or future projections, I thought I’d share something on a lighter note. I’m giving you exclusive access into my new typical day at the office\! Some of my morning rituals remain the same, but the commute sure looks different… Hope this leaves you smiling\!&nbsp;
 
