@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/april-update-yt-mark-adams.jpg
-youtube_code: oFTWi7pr-iA
+youtube_code: vHm0EJ8c0VQ
 ---
 
 {% include youtube.html %}
