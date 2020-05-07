@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/pizza-yt-mark-adams.jpg
-youtube_code: SPeqPNYozBY
+youtube_code: Cx_bb6jPRO4
 ---
 
 {% include youtube.html %}
