@@ -19,7 +19,7 @@ youtube_code: J_WZIPS0QGo
 
 {% include youtube.html %}
 
-<p style="text-align:center">Our team got together a while back to enjoy some delicious pizza. Here’s our full conversation.</p>
+<p style="text-align:center"><em>Our team got together a while back to enjoy some delicious pizza. Here’s our full conversation.</em></p>
 
 Back before social distancing, my team got together to celebrate National Pizza Party Week. Check out our party in the video above\!
 
