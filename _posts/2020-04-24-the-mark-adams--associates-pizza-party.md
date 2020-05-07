@@ -19,8 +19,6 @@ youtube_code: ZzBcZmhjYGI
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Our team got together a while back to enjoy some delicious pizza. Here’s our full conversation.</em></p>
-
 Back before social distancing, my team got together to celebrate National Pizza Party Week. Check out our party in the video above\!
 
-One thing I love most about Superstars Pizza is that you can get pizza by the slice to customize your own bite instead of having to compromise with the rest of your family. Our team got together recently for a pizza party, and we ordered four equally delicious slices. We ate some food and discussed some pizza-related topics, and we wanted to share that conversation with you.&nbsp;
+One thing I love most about Superstars Pizza is that you can get pizza by the slice to customize your own bite instead of having to compromise with the rest of your family. When our team got together for our pizza party, we ordered eight equally delicious slices of all different types. We also dished out our individual pizza-eating quirks, and even tried a new approach to savoring a slice. We hope you get a kick out of our conversation\!
