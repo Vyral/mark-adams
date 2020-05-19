@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/may-2020-yt-mark-adams.jpg
-youtube_code: Z3qIKxywwRg
+youtube_code: jIkUA1B6I0s
 ---
 
 {% include youtube.html %}
