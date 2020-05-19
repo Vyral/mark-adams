@@ -17,6 +17,6 @@ youtube_code: Z3qIKxywwRg
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>These numbers show our market is still strong.</em></p>
+<p style="text-align:center"><em>These numbers show our market is a strong sellers' market.</em></p>
 
 I’ve been getting a lot of questions about property values and recent home sale numbers. Today I want to address both topics with some hard data. For example, the median sale price in April 2019 was $259,000. This April, the median price was $271,538. People are still buying and selling homes right now. We’re taking every precaution to make sure all of our clients remain safe and healthy throughout the process. To learn more, watch the short video above.
