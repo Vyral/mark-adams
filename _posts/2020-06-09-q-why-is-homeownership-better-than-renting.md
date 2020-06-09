@@ -17,7 +17,7 @@ youtube_code: AnfKva7Zuj0
 
 {% include youtube.html %}
 
-<p style="text-align:center">Now is a great time to stop renting and become a homeowner. Here’s why.</p>
+<p style="text-align:center"><em>Now is a great time to stop renting and become a homeowner. Here’s why.</em></p>
 
 When you own a home, you enjoy certain advantages that renters don’t get. Here are the top five reasons to buy your own home instead of renting:
 
