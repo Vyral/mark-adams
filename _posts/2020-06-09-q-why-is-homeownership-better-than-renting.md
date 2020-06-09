@@ -21,10 +21,13 @@ youtube_code: yVKO5L5ZJbg
 
 When you own a home, you enjoy certain advantages that renters don’t get. Here are the top five reasons to buy your own home instead of renting:
 
-**1. You can make changes to the property**. This could include changing the paint color, adding a big garden, and other projects that you just can’t do in a rental property.</br>
-**2. You can write off interest annually.** When you make your monthly payment on your mortgage, a portion of that goes toward interest, and you get to write that interest off on an annual basis.</br>
-**3. Property values increase over time.** In the last 30 years, property values have gone up by 3% to 5% every year.</br>
-**4. Home equity**. When you make your payment each month, you’re decreasing the life of the loan. The gap between how much you still owe and the value of your property is called equity, which can be used for multiple purposes.</br>
-**5. Small business write-offs.** If you own a small business and you’re using your home to operate that business, you get to write a portion of it off, which is especially nice given our current environment.</br>
+**1. You can make changes to the property**. This could include changing the paint color, adding a big garden, and other projects that you just can’t do in a rental property.
+
+**2. You can write off interest annually.** When you make your monthly payment on your mortgage, a portion of that goes toward interest, and you get to write that interest off on an annual basis.
+
+**4. Home equity**. When you make your payment each month, you’re decreasing the life of the loan. The gap between how much you still owe and the value of your property is called equity, which can be used for multiple purposes.
+
+**5. Small business write-offs.** If you own a small business and you’re using your home to operate that business, you get to write a portion of it off, which is especially nice given our current environment.
+
 
 If you have any questions about this information or I can help you in any way, feel free to reach out to me.
