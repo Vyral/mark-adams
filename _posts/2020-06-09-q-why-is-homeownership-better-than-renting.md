@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/buy-rent-yt-mark-adams.jpg
-youtube_code: yVKO5L5ZJbg
+youtube_code: Z5UjWX5w4d8
 ---
 
 {% include youtube.html %}
