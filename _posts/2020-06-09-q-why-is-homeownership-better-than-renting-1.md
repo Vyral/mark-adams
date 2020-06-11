@@ -13,6 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/buy-rent-yt-mark-adams.jpg
 youtube_code: Z5UjWX5w4d8
+permalink: /q-why-is-homeownership-better-than-renting.html.com/q-whats-going-on-with-the-market.html
 ---
 
 {% include youtube.html %}
