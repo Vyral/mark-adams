@@ -17,6 +17,6 @@ youtube_code: A02A-f2lSdc
 
 {% include youtube.html %}
 
-We're sharing some fond memories of our dads.
+<p style="text-align:center">We're sharing some fond memories of our dads.</p>
 
 We hope that you’re safe, healthy, and enjoying summer. In honor of the holiday, we took some time to reflect on our fondest memories of our dads. We hope these vignettes stir up some of your own special memories of the men in your lives that are fatherly to you. Happy Father's Day\!&nbsp;
