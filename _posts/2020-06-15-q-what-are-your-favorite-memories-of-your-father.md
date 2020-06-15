@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/father-yt-mark-adams.jpg
-youtube_code: >-
+youtube_code: >-A02A-f2lSdc
   We hope that you’re safe, healthy, and enjoying summer. In honor of the
   holiday, we took some time to reflect on our fondest memories of our dads. We
   hope these vignettes stir up some of your own special memories of the men in
