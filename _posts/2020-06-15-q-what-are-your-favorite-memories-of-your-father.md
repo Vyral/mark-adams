@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q:  What are your favorite memories of your father?'
+title: 'What Are Your Favorite Memories of Your Father?'
 date: 2020-06-15 19:19:00
 tags:
   - Real Estate
