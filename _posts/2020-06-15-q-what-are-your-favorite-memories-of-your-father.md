@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/father-yt-mark-adams.jpg
-youtube_code: A02A-f2lSdc
+youtube_code: BxZc85kIHeo
 ---
 
 {% include youtube.html %}
