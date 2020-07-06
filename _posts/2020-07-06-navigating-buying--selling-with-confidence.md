@@ -18,7 +18,7 @@ youtube_code: jJNbN3yj82g
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s how we help our clients who need to buy and sell simultaneously.</p>
+<p style="text-align:center"><em>Here’s how we help our clients who need to buy and sell simultaneously.</em></p>
 
 I get this question a lot: “Mark, we want to buy a house, but we have to sell our current home first. We don’t want to risk carrying two mortgages, so how is this possible?’.
 
