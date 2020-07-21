@@ -17,7 +17,7 @@ youtube_code: GAwQc0b9ECs
 
 {% include youtube.html %}
 
-These lessons from my father really shaped my view of the world.
+<p style="text-align:center">These lessons from my father really shaped my view of the world.</p>
 
 Last month, we shared fond memories of our dads as a Father’s Day tribute. It got me thinking about the many lessons my father taught me that have shaped the person I am today. I wanted to share a few of my favorite lessons that I refer back to frequently. You may have heard these very same things from your father or mother, or perhaps they will stir up other classic ‘dad phrases,’ which I hope bring a smile to your face.
 
