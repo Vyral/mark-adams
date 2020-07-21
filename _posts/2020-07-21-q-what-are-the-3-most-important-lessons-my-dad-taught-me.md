@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Q: What Are the 3 Most Important Lessons My Dad Taught Me?'
-date: 2020-07-21 20:09:43
+date: 2020-07-21 20:09:00
 tags:
+  - Real Estate
 excerpt: These lessons from my father really shaped my view of the world.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+What+Are+the+3+Most+Important+Lessons+My+Dad+Taught+Me_.mp4
