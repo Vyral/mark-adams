@@ -7,7 +7,7 @@ tags:
 excerpt: These lessons from my father really shaped my view of the world.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+What+Are+the+3+Most+Important+Lessons+My+Dad+Taught+Me_.mp4
-pullquote: There’s nothing you can break that I can’t fix.
+pullquote: I love my dad for giving me the gift of being able to live my life without fear.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -17,7 +17,7 @@ youtube_code: wjpCGTbm-Wg
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>These lessons from my father really shaped my view of the world.</em></p>
+<p style="text-align:center"><em>These lessons from my father shaped my view of the world.</em></p>
 
 Last month, we shared fond memories of our dads as a Father’s Day tribute. It got me thinking about the many lessons my father taught me that have shaped the person I am today. I wanted to share a few of my favorite lessons that I refer back to frequently. You may have heard these very same things from your father or mother, or perhaps they will stir up other classic ‘dad phrases,’ which I hope bring a smile to your face.
 
