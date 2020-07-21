@@ -17,7 +17,7 @@ youtube_code: GAwQc0b9ECs
 
 {% include youtube.html %}
 
-<p style="text-align:center">These lessons from my father really shaped my view of the world.</p>
+<p style="text-align:center"><em>These lessons from my father really shaped my view of the world.</em></p>
 
 Last month, we shared fond memories of our dads as a Father’s Day tribute. It got me thinking about the many lessons my father taught me that have shaped the person I am today. I wanted to share a few of my favorite lessons that I refer back to frequently. You may have heard these very same things from your father or mother, or perhaps they will stir up other classic ‘dad phrases,’ which I hope bring a smile to your face.
 
@@ -27,7 +27,7 @@ Last month, we shared fond memories of our dads as a Father’s Day tribute. It 
 
 **2\. Always be teaching.** My father was incredibly gifted with his hands. He worked on cars, lawnmowers, the house, and anything else he could get his hands on. He always brought me, my brother, and my sister along, too. As an adult, when I’m working with someone who’s never used a specific tool, I realize that it takes 10 times longer to show them how to do it rather than just doing it yourself. I have so much more respect for my father now because he was showing us how to do these things without hesitation when we were with him.
 
-**3\. There’s nothing you can break that I can’t fix.** I remember when I was about 20 years old,&nbsp; my father owned an excavating business and a piece of equipment called a backhoe. The problem with using this machine is that, in tight corners, the backhoe will hit things. He came up to me and let me know that I need to be cognizant of making tight turns if I want to avoid causing damage. Then he uttered these words: Son, there is nothing you can break that I can’t fix. **He was basically telling me that it was OK to fail,** and these words have shaped the lives of me and my siblings. I will never, *ever* forget that lesson, and I love my dad for giving me the gift of being able to live my life without fear attached to it.
+**3\. There’s nothing you can break that I can’t fix.** I remember when I was about 20 years old, my father owned an excavating business and a piece of equipment called a backhoe. The problem with using this machine is that, in tight corners, the backhoe will hit things. He came up to me and let me know that I need to be cognizant of making tight turns if I want to avoid causing damage. Then he uttered these words: Son, there is nothing you can break that I can’t fix. **He was basically telling me that it was OK to fail,** and these words have shaped the lives of me and my siblings. I will never, *ever* forget that lesson, and I love my dad for giving me the gift of being able to live my life without fear attached to it.
 
 I hold all three of these lessons with me every single day, and they have shaped my life in unimaginable ways. I’m glad to be able to pass them along here.
 
