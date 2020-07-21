@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/wise-words-yt-mark-adams.jpg
-youtube_code: GAwQc0b9ECs
+youtube_code: wjpCGTbm-Wg
 ---
 
 {% include youtube.html %}
