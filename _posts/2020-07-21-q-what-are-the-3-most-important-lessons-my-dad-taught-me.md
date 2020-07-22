@@ -7,7 +7,9 @@ tags:
 excerpt: These lessons from my father really shaped my view of the world.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+What+Are+the+3+Most+Important+Lessons+My+Dad+Taught+Me_.mp4
-pullquote: I love my dad for giving me the gift of being able to live my life without fear.
+pullquote: >-
+  I love my dad for giving me the gift of being able to live my life without
+  fear.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,7 +21,7 @@ youtube_code: wjpCGTbm-Wg
 
 <p style="text-align:center"><em>These lessons from my father shaped my view of the world.</em></p>
 
-Last month, we shared fond memories of our dads as a Father’s Day tribute. It got me thinking about the many lessons my father taught me that have shaped the person I am today. I wanted to share a few of my favorite lessons that I refer back to frequently. You may have heard these very same things from your father or mother, or perhaps they will stir up other classic ‘dad phrases,’ which I hope bring a smile to your face.
+Last month, we shared fond memories of our dads as a Father’s Day tribute. It got me thinking about the many lessons my father taught me that have shaped the person I am today. I wanted to share a few of my favorite lessons that I refer back to frequently. You may have heard these very same things from your father, mother, or mentor, or perhaps they will stir up other classic ‘dad phrases,’ which I hope bring a smile to your face.
 
 **1. If it’s worth doing, it’s worth doing right.** When I was a young man, my father was a flooring contractor and used to bring me to work during summer break. He asked me to prep the floor so that he could lay the flooring when I was done. When I was finished, I went up to him and told him the floor was ready. However, he brought me back over to the floor and pointed out some dust that I had left behind. He told me that because I left the dust there, the glue wouldn’t stick and the floor would eventually come up. He proceeded to show me how to sweep the floor correctly.&nbsp;
 
