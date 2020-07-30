@@ -16,7 +16,7 @@ youtube_code: uJJNFBFdUxI
 
 {% include youtube.html %}
 
-I’m digital doorknocking to find homes for some buyers I’m working with.
+<p style="text-align:center">I’m digital doorknocking to find homes for some buyers I’m working with.</p>
 
 Today I wanted to share a new opportunity with you that I call “Digital Door Knocking.” As I’m sure many of you are aware, we are experiencing a shortage of inventory in the market right now. In other words, there are not a lot of homes for sale.
 
