@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Q: Could Your Home Be a Match for Our Buyers?'
+title: Could Your Home Be a Match for Our Buyers?
 date: 2020-07-30 17:25:10
 tags:
-excerpt: I’m digital doorknocking to find homes for some buyers I’m working with.
+excerpt: I’m digital door knocking to find homes for some of my buyers.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+Could+Your+Home+Be+a+Match+for+Our+Buyers_.mp4
 pullquote: 'If your home fits any of these descriptions, I want to buy your house.'
@@ -16,11 +16,11 @@ youtube_code: uJJNFBFdUxI
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>I’m digital doorknocking to find homes for some buyers I’m working with.</em></p>
+<p style="text-align:center"><em>I’m digital door knocking to find homes for some of my buyers.</em></p>
 
 Today I wanted to share a new opportunity with you that I call “Digital Door Knocking.” As I’m sure many of you are aware, we are experiencing a shortage of inventory in the market right now. In other words, there are not a lot of homes for sale.
 
-I’m doing things a little bit differently by telling you a little bit about some of the buyers we are currently working with and what they are specifically looking for.
+I’m doing things a little bit differently by telling you about some of the buyers we are currently working with and what they are specifically looking for.
 
 **First, we have this awesome couple with two kids who are looking in the Freeman school district.** They want a home with four bedrooms, under $400,000, and most importantly, an in-law suite.&nbsp;
 
@@ -32,6 +32,6 @@ Another couple we’re working with are empty nesters who are moving back to Ric
 
 Finally, we have an amazing family of four who are looking for a home with five acres or more in the Louisa, Goochland, Hanover area. They need to have a basement and their budget is under $500,000.
 
-If you’re a homeowner, have you ever had anybody knock on your door and say, “Hey , I want to buy your house?” Well, guess what? That’s what I’m doing right now. **If your home fits any of the descriptions above, you need to give me a call today because I have a buyer for your house.&nbsp;**
+If you’re a homeowner, have you ever had anybody knock on your door and say, “Hey, I want to buy your house?” Well, guess what? That’s what I’m doing right now. **If your home fits any of the descriptions above, you need to give me a call today because I have a buyer for your house.&nbsp;**
 
-If you have any other questions for me, feel free to reach out via phone or email anytime. I look forward to hearing from you.
+If you have further questions for me, feel free to reach out via phone or email anytime. I look forward to hearing from you.
