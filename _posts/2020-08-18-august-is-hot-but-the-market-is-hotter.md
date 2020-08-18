@@ -17,7 +17,7 @@ youtube_code: 2vIxx0JxnGI
 
 {% include youtube.html %}
 
-<p style="text-align:center">Our real estate market is red-hot for sellers right now.</p>
+<p style="text-align:center"><em>Our real estate market is red-hot for sellers right now.</em></p>
 
 Now, I’m not big on predictions when it comes to the real estate market, but I am big on giving you statistical data directly from our Richmond Metro MLS so you know what’s specifically happening right now. **The three things you need to know before you get ready to sell are:**
 
