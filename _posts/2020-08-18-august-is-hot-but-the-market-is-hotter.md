@@ -11,7 +11,7 @@ pullquote: I’ve never seen a market like this before.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/august2020-yt-mark-adams.jpg
+youtube_alternate_image:
 youtube_code: 2vIxx0JxnGI
 ---
 
