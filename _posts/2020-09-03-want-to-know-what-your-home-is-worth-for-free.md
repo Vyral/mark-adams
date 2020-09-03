@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Want to know what your home is worth for free?
-date: 2020-09-03 21:59:10
+date: 2020-09-03 21:59:00
 tags:
   - Real Estate
 excerpt:
@@ -9,7 +9,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
