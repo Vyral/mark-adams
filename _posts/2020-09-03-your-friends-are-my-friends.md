@@ -16,7 +16,7 @@ youtube_code: 4fBkSwiuH5k
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>We want to assist your family and friends too. Help us help them\!</em></p>
+<p style="text-align:center;"><em>We want to assist your family and friends too. Help us help them!</em></p>
 
 You know by now that our team's motto is "Relationships Are Key\!" We don't spend hours a day on the internet searching for strangers who want to buy or sell real estate. Our focus is on providing five-star service to our clients from start to finish and beyond in order to build positive, lasting relationships. **Our goal is to treat people so well that they would have no hesitation suggesting to their family and friends that we take care of them, too.&nbsp;**
 
