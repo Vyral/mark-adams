@@ -17,7 +17,7 @@ youtube_code: MhyRCfwNyuc
 
 {% include youtube.html %}
 
-Here’s how we’re helping other small businesses in our community grow.
+<p style="text-align:center">Here’s how we’re helping other small businesses in our community grow.</p>
 
 Lisa and I started our business 21 years ago, and we quickly learned we had no idea how to run a small business.&nbsp;
 
