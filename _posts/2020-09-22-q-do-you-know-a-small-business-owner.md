@@ -1,17 +1,18 @@
 ---
 layout: post
 title: 'Q: Do You Know a Small Business Owner?'
-date: 2020-09-22 17:16:52
+date: 2020-09-22 17:16:00
 tags:
   - Real Estate
 excerpt: Here’s how we’re helping other small businesses in our community grow.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+Do+You+Know+a+Small+Business+Owner_.mp4
 pullquote: 'We will be offering training, networking, and much more.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/ibor-yt-mark-adams.jpg
+youtube_code: MhyRCfwNyuc
 ---
 
 {% include youtube.html %}
