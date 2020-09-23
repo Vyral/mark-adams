@@ -17,7 +17,7 @@ youtube_code: MhyRCfwNyuc
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Here’s how we’re helping other small businesses in our community grow.</em></p>
+*Here’s how we’re helping other small businesses in our community grow.*
 
 Lisa and I started our business 21 years ago, and we quickly learned we had no idea how to run a small business.&nbsp;
 
@@ -27,4 +27,4 @@ I sought out information at a real estate conference, where I met a coach who to
 
 Two years later, I met another speaker who introduced me to the idea of masterminding. I learned how important it is to seek out other business owners in my field so that we can share experiences and learn from one another with the common goal of elevating ourselves and our industry.&nbsp;
 
-**That's the purpose of the**[**group I started**](https://www.facebook.com/groups/453620405315147v) **on Facebook, Intentional Business Owners of RVA.** We will be offering training on business and personal growth, networking opportunities, and promoting your business connections via individual spotlights. If you are a small business owner, or know someone who is, we would love to have you be a part of our new community. Check us out [here](https://www.facebook.com/groups/453620405315147v).
+**That's the purpose of the&nbsp;**[**group I started**](https://www.facebook.com/groups/453620405315147v) **on Facebook, Intentional Business Owners of RVA.** We will be offering training on business and personal growth, networking opportunities, and promoting your business connections via individual spotlights. If you are a small business owner, or know someone who is, we would love to have you be a part of our new community.&nbsp;
