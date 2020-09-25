@@ -10,14 +10,14 @@ enclosure: >-
 pullquote: 'We will be offering training, networking, and much more.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/ibor-yt-mark-adams.jpg
-youtube_code: UsoXD0Pj2gc
+youtube_code: 3OAXnhesBPk
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s how we’re helping other small businesses in our community grow.</em></p>
+*Here’s how we’re helping other small businesses in our community grow.*
 
 Lisa and I started our business 21 years ago, and we quickly learned we had no idea how to run a small business.&nbsp;
 
