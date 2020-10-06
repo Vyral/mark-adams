@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Is Refinancing Right For You?'
+title: How do you know if refinancing is right for you?
 date: 2020-10-05 12:00:00
 tags:
 excerpt: 'Given the market, should you stay in your home and refinance or just sell it?'
