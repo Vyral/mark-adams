@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Should You Refinance Your Home or Sell It?'
+title: 'Q: Is Refinancing Right For You?'
 date: 2020-10-05 12:00:00
 tags:
 excerpt: 'Given the market, should you stay in your home and refinance or just sell it?'
@@ -18,7 +18,7 @@ youtube_code: aKny4ir6AgU
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Given the market, should you stay in your home and refinance or just sell it?</em></p>
+*Given the market, should you stay in your home and refinance or just sell it?*
 
 Should you stay in your current house and refinance or should you prepare to sell it because the market is so attractive for sellers right now?&nbsp;
 
