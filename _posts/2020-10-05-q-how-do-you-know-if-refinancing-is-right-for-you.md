@@ -12,13 +12,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2020-10-6.jpg
+youtube_alternate_image: /uploads/stay-or-go-2--yt-mark-adams.jpg
 youtube_code: aKny4ir6AgU
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Given the market, should you stay in your home and refinance or just sell it?</em></p>
+*Given the market, should you stay in your home and refinance or just sell it?*
 
 Should you stay in your current house and refinance or should you prepare to sell it because the market is so attractive for sellers right now?&nbsp;
 
