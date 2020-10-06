@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How do you know if refinancing is right for you?
+title: 'Q: How do you know if refinancing is right for you?'
 date: 2020-10-05 12:00:00
 tags:
 excerpt: 'Given the market, should you stay in your home and refinance or just sell it?'
@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/stay-or-go-yt-mark-adams.jpg
+youtube_alternate_image: /uploads/2020-10-6.jpg
 youtube_code: aKny4ir6AgU
 ---
 
