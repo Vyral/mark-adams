@@ -5,7 +5,7 @@ date: 2020-10-05 12:00:00
 tags:
 excerpt: 'Given the market, should you stay in your home and refinance or just sell it?'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+Should+You+Refinance+Your+Home+or+Sell+It_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+How+do+you+know+if+refinancing+is+right+for+you_.mp4
 pullquote: >-
   If you can get a good interest rate that’s 1% lower than your current interest
   rate, it might make sense to refinance.
@@ -13,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/stay-or-go-2--yt-mark-adams.jpg
-youtube_code: aKny4ir6AgU
+youtube_code: CK7uEyzsgUU
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Given the market, should you stay in your home and refinance or just sell it?</em></p>
+*Given the market, should you stay in your home and refinance or just sell it?*
 
 Should you stay in your current house and refinance or should you prepare to sell it because the market is so attractive for sellers right now?&nbsp;
 
