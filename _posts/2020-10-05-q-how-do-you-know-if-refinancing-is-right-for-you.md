@@ -18,7 +18,7 @@ youtube_code: CK7uEyzsgUU
 
 {% include youtube.html %}
 
-*Given the market, should you stay in your home and refinance or just sell it?*
+<p style="text-align:center;"><em>Given the market, should you stay in your home and refinance or just sell it?</em></p>
 
 Should you stay in your current house and refinance or should you prepare to sell it because the market is so attractive for sellers right now?&nbsp;
 
