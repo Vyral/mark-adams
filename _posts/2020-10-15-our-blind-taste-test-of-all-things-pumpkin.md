@@ -15,9 +15,11 @@ youtube_code: EjAYguXgNNU
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>In honor of fall, we’re (blindly) sampling savory pumpkin-flavored treats.</em></p>
+*In honor of fall, we’re (blindly) sampling savory pumpkin-flavored treats.*
 
-You may have heard of Blind Melon; please welcome Blind Pumpkin to the stage—a blind pumpkin taste test, that is\! ‘Tis the season for all things pumpkin spice, and we decided to go ALL in. Our buddy, Greg Cowart of NFM Lending, joined Mark and Amy to sample a spread of pumpkin-flavored novelties. Check out this video to see our reactions, reviews, and see which of us has the sharpest palette. As always, thanks for watching\!
+You may have heard of Blind Melon; please welcome Blind Pumpkin to the stage—a blind pumpkin taste test, that is\! ‘Tis the season for all things pumpkin spice. We decided to take a break from work and go ALL in. Our buddy, Greg Cowart of NFM Lending, joined Mark and Amy to sample a spread of pumpkin-flavored novelties dished out by Lisa and Chloe (who may have snuck in some mind games). Check out this video to see our reactions, reviews, and see which of us has the sharpest palette.&nbsp; And now that the sugar coma has worn off, we’re back to work, so don’t hesitate to give us a shout for your real estate needs\!
+
+As always, thanks for watching\!
 
 &nbsp;
 
