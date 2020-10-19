@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/blind-yt-mark-adams.jpg
-youtube_code: EjAYguXgNNU
+youtube_code: epHueuztr2I
 ---
 
 {% include youtube.html %}
