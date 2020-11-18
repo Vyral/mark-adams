@@ -16,7 +16,7 @@ youtube_code: 34MLnWGVSmo
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>The Mark Adams Team is grateful for so many things this year.</em></p>
+*The Mark Adams Team is grateful for so many things this year.*
 
 We’re coming up on that special time of year when everyone gathers together with family to chow down on some great holiday food and reflect on what they’re grateful for. Today I’m joined by my favorite people, the Mark Adams Team, to share what we’re thankful for this holiday season.
 
@@ -24,7 +24,7 @@ Amy is thankful to be able to spend a lot more time at home with her family this
 
 Chloe is grateful for many things that came from quarantine. She’s gotten to fulfill her dream of being a stay-at-home mom while also having a job—the best of both worlds. She’s also thankful for all the educators who have taken an impossible situation and made the best of it. Her daughter Joey is still able to go through first grade, even if part of her lessons are done remotely. Chloe is also grateful to have a more active role in her children’s education.
 
-{% include pullquote %}
+{% include pullquote.html %}
 
 This is Lisa’s favorite time of the year because she gets to spend lots of time with her animals. She’s thankful for her health and the ability to work from home with her husband (thanks to noise-canceling headphones). She was also given an unusual blessing in the fact that her brother and his family were able to spend more time with their mother, who passed away recently. The hospital allowed his whole family to be there with her, which isn’t typical these days. Otherwise, Lisa is grateful for being able to spend time with friends over Zoom, take walks, and settle into a good book.
 
