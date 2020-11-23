@@ -3,11 +3,7 @@ layout: post
 title: What Are You Thankful for This Year?
 date: 2020-11-18 16:00:00
 tags:
-excerpt: >-
-  With the holidays approaching, it’s a great time to pause and reflect on what
-  we’re grateful for. Today I’m joined by my favorite people, my team, to share
-  what we’re thankful for this holiday season. To see our full holiday message,
-  watch this latest video.
+excerpt: The Mark Adams Team is grateful for so many things this year.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/What+Are+You+Thankful+for+This+Year_.mp4
 pullquote: We hope that you and yours have a truly happy Thanksgiving.
