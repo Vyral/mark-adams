@@ -33,11 +33,3 @@ As for me, I’m thankful for my friends and family members. This time in quaran
 **Last, but not least, we’re all thankful for you\!**&nbsp;We’re so grateful for being able to serve such amazing people like yourselves**.**&nbsp;We hope that you and yours have a truly happy Thanksgiving.
 
 What are you thankful for this year? Reach out to us and let us know—we’d love to hear about it\!
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
