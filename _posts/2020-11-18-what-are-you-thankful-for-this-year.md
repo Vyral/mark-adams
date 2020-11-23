@@ -16,7 +16,7 @@ youtube_code: 34MLnWGVSmo
 
 {% include youtube.html %}
 
-*The Mark Adams Team is grateful for so many things this year.*
+<p style="text-align:center;"><em>The Mark Adams Team is grateful for so many things this year.</em></p>
 
 With the holidays approaching, it’s a great time to pause and reflect on what we’re grateful for.&nbsp;**Today I’m joined by my favorite people, my team, to share what we’re thankful for this holiday season.**
 
