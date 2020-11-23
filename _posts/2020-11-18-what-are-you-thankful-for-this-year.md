@@ -16,9 +16,9 @@ youtube_code: 34MLnWGVSmo
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>The Mark Adams Team is grateful for so many things this year.</em></p>
+*The Mark Adams Team is grateful for so many things this year.*
 
-We’re coming up on that special time of year when everyone gathers together with family to chow down on some great holiday food and reflect on what they’re grateful for. Today I’m joined by my favorite people, my team, to share what we’re thankful for this holiday season.
+We’re coming up on that special time of year when everyone gathers together with family to chow down on some great holiday food and reflect on what they’re grateful for. **Today I’m joined by my favorite people, my team, to share what we’re thankful for this holiday season.**
 
 Amy is thankful to be able to spend a lot more time at home with her family this year, especially after her nanny contracted the virus. Her children have been very productive in making ornaments for their Christmas tree.
 
@@ -30,7 +30,7 @@ This is Lisa’s favorite time of the year because she gets to spend lots of tim
 
 As for me, I’m thankful for my friends and family members. This time in quarantine has also given me an opportunity to not only spend more time at home, but also to create an amazing garden where we’ve grown pumpkins. One of the most critical lessons we’ve learned during quarantine is how important it is to be around people. Our team has missed meeting in person on a regular basis, so we really appreciate this time we’ve had together today.
 
-Last but not least, we’re all thankful for you\! We’re so grateful for being able to serve such amazing people like yourselves**.** We hope that you and yours have a truly happy Thanksgiving.
+**Last but not least, we’re all thankful for you\!** We’re so grateful for being able to serve such amazing people like yourselves**.** We hope that you and yours have a truly happy Thanksgiving.
 
 What are you thankful for this year? Reach out to us and let us know—we’d love to hear about it\!
 
