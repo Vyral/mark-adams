@@ -16,7 +16,7 @@ youtube_code: ijFyfHHp7uc
 
 {% include youtube.html %}
 
-*Officer Mashburn shares some simple but important tips for holiday safety.*
+<p style="text-align:center;"><em>Officer Mashburn shares some simple but important tips for holiday safety.</em></p>
 
 ‘Tis the season to be jolly\! Let's prevent some criminal folly.
 
