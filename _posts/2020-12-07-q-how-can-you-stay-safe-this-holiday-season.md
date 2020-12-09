@@ -5,18 +5,18 @@ date: 2020-12-07 14:00:00
 tags:
 excerpt: Officer Mashburn shares some simple but important tips for holiday safety.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Holiday+Safety+Tips+from+Officer+Mashburn.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q_+How+Can+You+Stay+Safe+This+Holiday+Season_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/holiday-safety-yt-mark-adams.jpg
-youtube_code: 8JgQ3sMlOMA
+youtube_code: ijFyfHHp7uc
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Officer Mashburn shares some simple but important tips for holiday safety.</em></p>
+*Officer Mashburn shares some simple but important tips for holiday safety.*
 
 ‘Tis the season to be jolly\! Let's prevent some criminal folly.
 
