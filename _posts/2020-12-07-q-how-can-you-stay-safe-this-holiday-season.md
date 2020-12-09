@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Holiday Safety Tips from Officer Mashburn
+title: 'Q: How Can You Stay Safe This Holiday Season?'
 date: 2020-12-07 14:00:00
 tags:
 excerpt: Officer Mashburn shares some simple but important tips for holiday safety.
@@ -16,7 +16,7 @@ youtube_code: 8JgQ3sMlOMA
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Officer Mashburn shares some simple but important tips for holiday safety.</em></p>
+*Officer Mashburn shares some simple but important tips for holiday safety.*
 
 ‘Tis the season to be jolly\! Let's prevent some criminal folly.
 
