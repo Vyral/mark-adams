@@ -24,7 +24,7 @@ youtube_code: 8JgQ3sMlOMA
 
 **If you're just looking for quick tips to snatch 'n grab, here are the highlights:**
 
-* Leave special instructions for delivery drivers for where to place your packages; ask that they hide them behind outdoor furniture, or leave them at a side door where they are less visible.
+* Leave special instructions for delivery drivers for where to place your packages; ask that they hide them behind outdoor furniture or leave them at a side door where they are less visible.
 
 * Keep all of your doors/windows locked at all times\!&nbsp;
 
