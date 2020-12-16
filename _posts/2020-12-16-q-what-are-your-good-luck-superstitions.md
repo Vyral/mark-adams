@@ -18,7 +18,7 @@ youtube_code: g_0XkxUgeks
 
 {% include youtube.html %}
 
-You may not be superstitious, but we’re at least a little ‘stitious\!
+<p style="text-align:center;"><em>You may not be superstitious, but we’re at least a little ‘stitious!</em></p>
 
 We got together as a team to celebrate another successful year in business, in spite of all the curveballs 2020 threw our way. Although it was a great year for many reasons, you might be as happy as we are to say "good riddance\!" to 2020. As our mindsets shift toward 2021, we want to bring about *all* the good fortune possible, so we reminisced on some superstitions from our childhoods. We figure that 2021 may need as many of these good-luck charms and superstitions as it can get, so we went ahead and performed a whole mess of them\!
 
