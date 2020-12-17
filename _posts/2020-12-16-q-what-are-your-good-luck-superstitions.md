@@ -32,6 +32,6 @@ Rabbits are also a part of Amy's good luck traditions. She carries a rabbit's fo
 
 Lisa has a horseshoe from her father that symbolizes luck, and tosses salt over her shoulder. She also knocks on wood, which is something you might do all the time, too, but do you know why? **In Irish folklore, evil spirits live in the wood, so you must knock on it to deafen their ears to your wishes.**
 
-Lastly, we all decided to cheers to the new year. As it turns out, Spaniards toast at midnight with 12 grapes in their glass; each one is to be eaten for 12 months of good luck in the upcoming year.
+Lastly, we all decided to cheers to the new year. As it turns out, Spaniards toast at midnight with 12 grapes in their glass; each one is to be eaten to symbolize 12 months of good luck in the upcoming year.
 
 Here's to your good fortune in 2021\! If we can help you with that, at least by way of your real estate needs, please don't hesitate to reach out. Happy holidays to you and yours, and adios, 2020\!
