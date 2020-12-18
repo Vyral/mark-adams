@@ -22,7 +22,7 @@ youtube_code: qOmDuz4kqZU
 
 We got together as a team to celebrate another successful year in business, in spite of all the curveballs 2020 threw our way. Although it was a great year for many reasons, you might be as happy as we are to say "good riddance\!" to 2020. As our mindsets shift toward 2021, we want to bring about *all* the good fortune possible, so we reminisced on some superstitions from our childhoods. We figure that 2021 may need as many of these good-luck charms and superstitions as it can get, so we went ahead and performed a whole mess of them!
 
-To start, **Mark's mom always prepared black-eyed peas to eat on New Year's to bring good luck.** He also eats an apple every day to keep the doctor away (would you call that luck or science?). Also, picking up pennies is something he still does to this day.
+To start, **Mark's mom always prepared black-eyed peas to eat on New Year's to bring good luck.** He also eats an apple every day to keep the doctor away (would you call that luck or science?).  Also, picking up pennies is something he still does to this day.
 
 Chloe also recalls tossing pennies into a fountain as a kid for good luck, and on the first day of every month, **she recites the words "bunny, bunny, bunny”—a twist on the classic "rabbit, rabbit, rabbit" superstition.**
 
