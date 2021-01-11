@@ -8,12 +8,14 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/adams-fb.png
 youtube_code:
 ---
 
-![](/uploads/adams-fb-1.png){: width="828" height="465"}Friends and Clients —
+![](/uploads/adams-fb-1.png){: width="828" height="465"}
+
+Friends and Clients —
 
 The real estate market continues to surge ahead. However, clouds might be forming on the horizon for sellers. Let me give you the details:
 
