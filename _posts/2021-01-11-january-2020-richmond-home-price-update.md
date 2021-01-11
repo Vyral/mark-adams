@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/adams-fb.png
 youtube_code:
 ---
 
-![](/uploads/adams-fb-1.png){: width="828" height="465"}
+<img src="/uploads/adams-fb.png" width="100%">
 
 Friends and Clients —
 
