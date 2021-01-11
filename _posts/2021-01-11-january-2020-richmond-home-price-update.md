@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/adams-fb.png
 youtube_code:
 ---
 
-Friends and Clients —
+![](/uploads/adams-fb-1.png){: width="828" height="465"}Friends and Clients —
 
 The real estate market continues to surge ahead. However, clouds might be forming on the horizon for sellers. Let me give you the details:
 
@@ -23,7 +23,7 @@ Throughout 2020, the popular 30-year fixed mortgage rate set 15 new record lows.
 
 It ended 2020 just one basis point higher than the latest record low and currently stands at 2.86%, a full percentage point lower than one year ago.
 
-These ultra-low mortgage rates are driving an increase in demand. Unfortunately, sales are restricted due to...
+These ultra-low mortgage rates are driving an increase in demand. Unfortunately, sales are restricted due to…
 
 **2\. Record-low inventory**
 
