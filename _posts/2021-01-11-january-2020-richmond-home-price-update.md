@@ -3,7 +3,7 @@ layout: post
 title: January 2020 Richmond home price update
 date: 2021-01-11 13:00:00
 tags:
-excerpt:
+excerpt: The real estate market is golden for sellers right now.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
