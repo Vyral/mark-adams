@@ -40,6 +40,10 @@ client:
   phone2_type:
   email: office@markadamsteam.com
   url: 'http://markadamsblog.com'
+
+forms:
+  sitekey: 6LcKHSsaAAAAAI1B5pfFwBPg65Q8n9GjNlAQhhMU
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
