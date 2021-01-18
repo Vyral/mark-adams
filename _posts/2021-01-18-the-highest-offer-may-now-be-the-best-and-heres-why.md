@@ -16,7 +16,9 @@ youtube_code: 5EBcniyo0Lo
 
 {% include youtube.html %}
 
-<center><em>Here’s why the highest offer isn’t always the best one.</em></center>
+<center><em>Here&rsquo;s why the highest offer isn&rsquo;t always the best one.</em></center>
+
+<center>&nbsp;</center>
 
 In a multiple-offer situation, why is the highest offer not always the best?
 
