@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Highest Offer May Now Be the Best, and Here’s Why'
+title: 'The Highest Offer May Not Be the Best, and Here’s Why'
 date: 2021-01-18 11:00:00
 tags:
 excerpt: Here’s why the highest offer isn’t always the best one.
@@ -27,8 +27,6 @@ For our listings, we regularly see multiple-offer situations where buyers compet
 1. Ask the seller to reduce their price to the appraised value.&nbsp;
 2. Negotiate a price somewhere in between
 3. Ask to be let out of the contract (if the first two options fail)
-
-{% include pullquote.html %}
 
 My team and I recently listed a property that snagged seven offers. The top two offers were $30,000 and $23,000 above asking price. The buyer behind the second offer, though, negotiated up front with the sellers that they would pay the difference between the written sale price and appraised value if it happened to be less. That was huge, and the buyer behind the first offer didn’t include that kind of contingency in it, which meant if the home didn’t appraise, they’d have a problem on their hands. When we did a comparative market analysis of the area, we discovered that the price that buyer offered didn’t support the comps, so that was likely where their deal would’ve ended up. **In this case, the second buyer clearly had the better offer.**&nbsp;
 
