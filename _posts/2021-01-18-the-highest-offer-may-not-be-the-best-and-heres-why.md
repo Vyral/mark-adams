@@ -5,13 +5,13 @@ date: 2021-01-18 11:00:00
 tags:
 excerpt: Here’s why the highest offer isn’t always the best one.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/The+Highest+Offer+May+Now+Be+the+Best%2C+and+Here%E2%80%99s+Why.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/The+Highest+Offer+May+Not+Be+the+Best%2C+and+Here%E2%80%99s+Why.mp4
 pullquote: 'In their contract, the buyer has the option to order an appraisal.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/highest-offer-yt-mark-adams.jpg
-youtube_code: 5EBcniyo0Lo
+youtube_code: 1wTwzh_Rxes
 ---
 
 {% include youtube.html %}
