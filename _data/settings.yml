@@ -48,7 +48,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.markadamsteam.com/listings-search/#/2033763787'
+  second_CTA_URL: 'https://search.markadamsteam.com/?ls=Active&startrow=1&maxrows=50&sort=price_desc&map_tl_lat=37.88430312941288&map_tl_lng=-78.51092052148438&map_br_lat=37.161102274898866&map_br_lng=-76.31640147851563&redraw_map_bounds=false'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Richmond Home Worth?
@@ -62,7 +62,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a Richmond Home?
     CTA_text2: Search the entire MLS for your Richmond home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://www.markadamsteam.com/listings-search/#/2033763787'
+    CTA_url2: 'https://search.markadamsteam.com/?ls=Active&startrow=1&maxrows=50&sort=price_desc&map_tl_lat=37.88430312941288&map_tl_lng=-78.51092052148438&map_br_lat=37.161102274898866&map_br_lng=-76.31640147851563&redraw_map_bounds=false'
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
     CTA_link_text3: Client Testimonials
