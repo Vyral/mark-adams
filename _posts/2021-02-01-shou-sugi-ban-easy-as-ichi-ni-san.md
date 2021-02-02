@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Do Shou Sugi Ban
+title: 'Shou Sugi Ban: Easy as Ichi, Ni, San'
 date: 2021-02-01 11:00:00
 tags:
 excerpt: Here’s my recent project of trying the Japanese Shou Sugi Ban technique.
@@ -20,7 +20,7 @@ youtube_code: uUA0HWc4nr4
 
 <center>&nbsp;</center>
 
-Over the holidays, my wife **Lisa asked me to build some raised beds for her new garden**, and they turned out well. However, when I was done, she said they looked bright and new and wondered whether there was any way to treat them to make them appear weathered. She did some internet research and found out about an ancient Japanese technique called Shou Sugi Ban where you lightly char the wood to preserve it.&nbsp;
+Over the holidays, my wife **Lisa asked me to build some raised beds for her new garden**, and they turned out well. However, when I was done, she said they looked bright and new and wondered whether there was any way to treat them to make them appear weathered. She did some internet research and found out about an ancient Japanese technique called Shou Sugi Ban where you lightly char the wood to preserve it. &nbsp;This technique is not only for garden beds, but any wood-working project, such as sheds, cabinets, etc.
 
 {% include pullquote.html %}
 
