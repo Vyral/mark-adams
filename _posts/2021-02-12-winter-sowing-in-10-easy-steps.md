@@ -34,7 +34,7 @@ Here’s a quick step-by-step guide to winter sowing snow peas, which you can al
 
 &emsp;**5\.** Use a marker or even your fingers to poke holes in the dirt, about 1.5 inches deep
 
-&emsp;**6\.** Place your seeds in the holes, cover them with soil, and wet them—make sure it’s as wet as possible before you seal the jug up to promote condensation inside
+&emsp;**6\.** Place your seeds in the holes, cover them with soil, and wet them—make sure it’s as wet as possible before you seal the jug up &emsp;to promote condensation inside
 
 &emsp;**7\.** Put the top half of the jug back on the bottom half and seal them together with duct tape
 
