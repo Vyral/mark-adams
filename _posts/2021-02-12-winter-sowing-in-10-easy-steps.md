@@ -16,7 +16,7 @@ youtube_code: zOo6IV4po_0
 
 {% include youtube.html %}
 
-<center>Lisa Adams joins me to teach us about winter sowing.</center>
+<center><em>Lisa Adams joins me to teach us about winter sowing.</em></center>
 
 <center>&nbsp;</center>
 
