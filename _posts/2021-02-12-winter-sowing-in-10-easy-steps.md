@@ -22,27 +22,27 @@ youtube_code: zOo6IV4po_0
 
 Winter sowing is essentially making a mini greenhouse to support seeds while they germinate during the wintertime. The process is simple and almost free to do—you simply put seeds in soil inside a plastic milk jug, seal it, then put it outside and wait for them to sprout.
 
-Here’s a quick step-by-step guide to winter sowing snow peas, which you can also watch in the video above:
+**Here’s a quick step-by-step guide to winter sowing snow peas, which you can also watch in the video above:**
 
-&emsp;**1\.** Take a plastic milk jug and cut it in half horizontally
+ **1\.** Take a plastic milk jug and cut it in half horizontally
 
-&emsp;**2\.** On the bottom half, cut or burn four drainage holes in the bottom and two on the side about an inch up from the bottom
+ **2\.** On the bottom half, cut or burn four drainage holes in the bottom and two on the side about an inch up from the bottom
 
-&emsp;**3\.** Pour about four inches of soil in the bottom half
+ **3\.** Pour about four inches of soil in the bottom half
 
-&emsp;**4\.** Wet the soil down with a spray bottle
+ **4\.** Wet the soil down with a spray bottle
 
-&emsp;**5\.** Use a marker or even your fingers to poke holes in the dirt, about 1.5 inches deep
+ **5\.** Use a marker or even your fingers to poke holes in the dirt, about 1.5 inches deep
 
-&emsp;**6\.** Place your seeds in the holes, cover them with soil, and wet them—make sure it’s as wet as possible before you seal the jug up &emsp;to promote condensation inside
+ **6\.** Place your seeds in the holes, cover them with soil, and wet them—make sure it’s as wet as possible before you seal the jug up to promote condensation inside
 
-&emsp;**7\.** Put the top half of the jug back on the bottom half and seal them together with duct tape
+ **7\.** Put the top half of the jug back on the bottom half and seal them together with duct tape
 
-&emsp;**8\.** Use a marker to label the jug
+ **8\.** Use a marker to label the jug
 
-&emsp;**9\.** Place your jugs somewhere outside where the wind (or animals) won’t knock them over
+ **9\.** Place your jugs somewhere outside where the wind (or animals) won’t knock them over
 
-&emsp;**10\.** Wait for your seeds to sprout\!
+ **10\.** Wait for your seeds to sprout\!
 
 You can follow the progress of Lisa’s plants and learn more gardening tips by joining her [Facebook group.](https://www.facebook.com/groups/WinterSowing.VegGardeningWithSheryl/?ref=share){: target="_blank" rel="noopener"}
 
