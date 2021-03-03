@@ -16,6 +16,7 @@ youtube_code:hxeDz7B3RHU
 &nbsp;
 <center><em>Lisa Adams joins me to teach us about winter sowing.</em></center>
 &nbsp;
+&nbsp;
  Lisa joined me today to share the next phase in her vision for our suburban garden. Since we don’t have a ton of land to farm on, she brought the idea of winter sowing to me, which is so easy to do, we just had to share it with you. Check out Lisa’s step-by-step demonstration in the video above.
  
 
