@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021-03-02-winter-sowing-vs-winter-growing-whats-the-difference
+title: "Winter Sowing Vs. Winter Growing: What's the Difference?"
 date: 2021-03-02 01:00:00
 tags: -Real Estate
 excerpt: Lisa Adams joins me to teach us about winter sowing.
