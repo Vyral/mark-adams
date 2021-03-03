@@ -17,7 +17,7 @@ youtube_code:hxeDz7B3RHU
 <center><em>Lisa Adams joins me to teach us about winter sowing.</em></center>
 &nbsp;
 &nbsp;
- Lisa joined me today to share the next phase in her vision for our suburban garden. Since we don’t have a ton of land to farm on, she brought the idea of winter sowing to me, which is so easy to do, we just had to share it with you. Check out Lisa’s step-by-step demonstration in the video above.
+Lisa joined me today to share the next phase in her vision for our suburban garden. Since we don’t have a ton of land to farm on, she brought the idea of winter sowing to me, which is so easy to do, we just had to share it with you. Check out Lisa’s step-by-step demonstration in the video above.
  
 
 So, what is the difference between winter sowing and winter growing, you ask? Winter sowing is essentially making a mini greenhouse to support seeds while they germinate during the wintertime. This differs from winter growing, where you plant directly into the ground, which requires large greenhouses that really are not suitable for suburbia. What’s great about winter sowing is that you probably already have most of the materials you need at home, aside from the seeds, and it takes up very little room in your yard. Then, come spring time, your plants are ready to go in the ground to flourish. The process is simple – you put your seeds in soil in a plastic milk jug, seal it, and then put it outside and wait for them to sprout. The beets, radishes, and broccoli Lisa planted a couple weeks ago are already beginning to grow!
