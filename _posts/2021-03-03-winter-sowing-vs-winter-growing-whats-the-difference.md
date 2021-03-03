@@ -1,8 +1,8 @@
 ---
 layout: post
 title:2021-03-03-winter-sowing-vs-winter-growing-whats-the-difference.md
-date:2021-03-03
-tags:real estate
+date: 2021-03-03
+tags: real estate
 excerpt:Lisa Adams joins me to teach us about winter sowing.
 enclosure:https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/Winter+Sowing+in+10+Easy+Steps+(1).mp4
 pullquote:
