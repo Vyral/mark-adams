@@ -25,7 +25,7 @@ So, what is the difference between winter sowing and winter growing, you ask? Wi
 
  
 
-If you’d like to learn more gardening tips and follow the progress of Lisa’s page, here is the Facebook group she belongs to: (insert link).
+If you’d like to learn more gardening tips and follow the progress of Lisa’s page, here is the [Facebook group.](https://www.facebook.com/groups/WinterSowing.VegGardeningWithSheryl/?ref=share){: target="_blank" rel="noopener"} she belongs to.
 
  
 
