@@ -3,6 +3,8 @@ layout: post
 title: 'Q: How Can You Stay Safe This Holiday Season?'
 date: 2020-12-07 14:00:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: Officer Mashburn shares some simple but important tips for holiday safety.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q_+How+Can+You+Stay+Safe+This+Holiday+Season_.mp4
@@ -13,10 +15,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/holiday-safety-yt-mark-adams.jpg
 youtube_code: ijFyfHHp7uc
 ---
-
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Officer Mashburn shares some simple but important tips for holiday safety.</em></p>
+*Officer Mashburn shares some simple but important tips for holiday safety.*
 
 ‘Tis the season to be jolly\! Let's prevent some criminal folly.
 
