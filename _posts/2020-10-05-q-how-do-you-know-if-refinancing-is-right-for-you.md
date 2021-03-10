@@ -3,6 +3,8 @@ layout: post
 title: 'Q: How do you know if refinancing is right for you?'
 date: 2020-10-05 12:00:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: 'Given the market, should you stay in your home and refinance or just sell it?'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+How+do+you+know+if+refinancing+is+right+for+you_.mp4
@@ -15,10 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/stay-or-go-2--yt-mark-adams.jpg
 youtube_code: CK7uEyzsgUU
 ---
-
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Given the market, should you stay in your home and refinance or just sell it?</em></p>
+*Given the market, should you stay in your home and refinance or just sell it?*
 
 Should you stay in your current house and refinance or should you prepare to sell it because the market is so attractive for sellers right now?&nbsp;
 
