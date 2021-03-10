@@ -3,6 +3,8 @@ layout: post
 title: 'Shou Sugi Ban: Easy as Ichi, Ni, San'
 date: 2021-02-01 11:00:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: Here’s my recent project of trying the Japanese Shou Sugi Ban technique.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/How+to+Do+Shou+Sugi+Ban.mp4
@@ -13,7 +15,6 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/2021-02-3.jpg
 youtube_code: uUA0HWc4nr4
 ---
-
 {% include youtube.html %}
 
 <center><em>Here&rsquo;s my recent project of trying the Japanese Shou Sugi Ban technique.</em></center>
