@@ -3,6 +3,8 @@ layout: post
 title: What Are You Thankful for This Year?
 date: 2020-11-18 16:00:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: The Mark Adams Team is grateful for so many things this year.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/What+Are+You+Thankful+for+This+Year_.mp4
@@ -13,10 +15,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/happy-thanksgiving-yt-mark-adams.jpg
 youtube_code: 34MLnWGVSmo
 ---
-
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>The Mark Adams Team is grateful for so many things this year.</em></p>
+*The Mark Adams Team is grateful for so many things this year.*
 
 With the holidays approaching, it’s a great time to pause and reflect on what we’re grateful for.&nbsp;**Today I’m joined by my favorite people, my team, to share what we’re thankful for this holiday season.**
 
