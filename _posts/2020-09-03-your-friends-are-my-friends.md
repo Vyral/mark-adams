@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Your Friends Are My Friends
-date: 2020-09-03 19:05:12
+date: 2020-09-03 19:05:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: We want to assist your family and friends too. Help us help them!
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Your+Friends+Are+My+Friends.mp4
@@ -13,10 +15,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/servicing-yt-mark-adams.jpg
 youtube_code: ja2nrMjXVxE
 ---
-
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>We want to assist your family and friends too. Help us help them!</em></p>
+*We want to assist your family and friends too. Help us help them\!*
 
 You know by now that our team's motto is "Where Relationships Are Key\!". We don't spend hours a day on the Internet searching for strangers who want to buy or sell real estate. Our focus is on providing five-star service to our clients from start to finish and beyond in order to build positive, lasting relationships. **Our goal is to treat people so well that they wouldn't hesitate to suggest our professional care to their family and friends.**
 
