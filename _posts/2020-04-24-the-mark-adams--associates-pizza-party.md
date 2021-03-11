@@ -3,7 +3,7 @@ layout: post
 title: The Mark Adams & Associates Pizza Party
 date: 2020-04-24 18:06:00
 tags:
-  - Real Estate
+  - Fun Stuff
 excerpt: >-
   Our team got together a while back to enjoy some delicious pizza. Here’s our
   full conversation.
@@ -16,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/pizza-yt-mark-adams.jpg
 youtube_code: zbJ0Ergz9Rw
 ---
-
 {% include youtube.html %}
 
 Back before social distancing, my team got together to celebrate National Pizza Party Week. Check out our party in the video above\!
