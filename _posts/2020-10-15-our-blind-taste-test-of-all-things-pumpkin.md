@@ -4,6 +4,7 @@ title: Our Blind Taste Test of All Things Pumpkin
 date: 2020-10-15 12:00:00
 tags:
   - Real Estate
+  - Fun Stuff
 excerpt: 'In honor of fall, we’re (blindly) sampling savory pumpkin-flavored treats.'
 enclosure: 'https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/videoplayback+(2).mp4'
 pullquote:
