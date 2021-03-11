@@ -4,8 +4,6 @@ title: 'Q: Do You Know a Small Business Owner?'
 date: 2020-09-22 17:16:00
 tags:
   - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
 excerpt: Here’s how we’re helping other small businesses in our community grow.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+Do+You+Know+a+Small+Business+Owner_.mp4
