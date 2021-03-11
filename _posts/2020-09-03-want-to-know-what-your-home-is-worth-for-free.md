@@ -4,6 +4,7 @@ title: Want to know what your home is worth for free?
 date: 2020-09-03 21:59:00
 tags:
   - Real Estate
+  - Home Seller Tips
 excerpt:
 enclosure:
 pullquote:
@@ -13,7 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/bigstock-rocking-chairs-on-porch-36352993.jpg
 youtube_code:
 ---
-
 Have you been thinking about what your home is worth lately?<br>I wanted to let you know Richmond home prices are not dropping in spite of the seemingly never ending curve balls 2020 is throwing.
 
 In fact, while inventory is down 40% nationally since sellers are likely hesitant to have buyers walk through their home, home prices are still strong (if not stronger).
