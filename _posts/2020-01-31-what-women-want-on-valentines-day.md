@@ -3,7 +3,7 @@ layout: post
 title: What Women Want on Valentine’s Day
 date: 2020-01-31 00:00:00
 tags:
-  - Real Estate
+  - Fun Stuff
 excerpt: My team gathers to share their answers to Valentine’s Day questions.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/Videos/2020/What+Women+Want+on+Valentines+Day.mp4
@@ -14,7 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/www-yt.jpg
 youtube_code: GTf9V_L4C6o
 ---
-
 {% include youtube.html %}
 
 What do women really want on Valentine’s Day? I brought together my favorite group of ladies: my team, Amy, Lisa, and Chloe. I’m going to ask them some questions, and their answers may enlighten you about what women want.&nbsp;
