@@ -5,6 +5,7 @@ date: 2020-10-05 12:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
+  - Real Estate
 excerpt: 'Given the market, should you stay in your home and refinance or just sell it?'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+How+do+you+know+if+refinancing+is+right+for+you_.mp4
