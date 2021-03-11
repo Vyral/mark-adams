@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'August Is Hot, But the Market Is Hotter'
-date: 2020-08-18 15:30:01
+date: 2020-08-18 15:30:00
 tags:
   - Market Update
+  - Home Seller Tips
 excerpt: Our real estate market is red-hot for sellers right now.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/August+Is+Hot%2C+But+the+Market+Is+Hotter.mp4
@@ -14,10 +15,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 2vIxx0JxnGI
 ---
-
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Our real estate market is red-hot for sellers right now.</em></p>
+*Our real estate market is red-hot for sellers right now.*
 
 Now, I’m not big on predictions when it comes to the real estate market, but I am big on giving you statistical data directly from our Richmond Metro MLS so you know what’s specifically happening right now. **The three things you need to know before you get ready to sell are:**
 
