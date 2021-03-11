@@ -3,8 +3,7 @@ layout: post
 title: What Are You Thankful for This Year?
 date: 2020-11-18 16:00:00
 tags:
-  - Home Buyer Tips
-  - Home Seller Tips
+  - Real Estate
 excerpt: The Mark Adams Team is grateful for so many things this year.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/What+Are+You+Thankful+for+This+Year_.mp4
