@@ -3,8 +3,7 @@ layout: post
 title: 'Q: What Are Your Good Luck Superstitions?'
 date: 2020-12-16 13:00:00
 tags:
-  - Home Buyer Tips
-  - Home Seller Tips
+  - Fun Stuff
 excerpt: 'You may not be superstitious, but we’re at least a little ‘stitious!'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q_+What+Are+Your+Good+Luck+Superstitions_+(1).mp4
