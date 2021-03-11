@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Navigating Buying & Selling With Confidence
-date: 2020-07-06 15:17:01
+date: 2020-07-06 15:17:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
+  - Real Estate
 excerpt: Here’s how we help our clients who need to buy and sell simultaneously.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Navigating+Buying+%26+Selling+With+Confidence.mp4
@@ -15,10 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/confidence-yt-mark-adams.jpg
 youtube_code: jJNbN3yj82g
 ---
-
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Here’s how we help our clients who need to buy and sell simultaneously.</em></p>
+*Here’s how we help our clients who need to buy and sell simultaneously.*
 
 I get this question a lot: “Mark, we want to buy a house, but we have to sell our current home first. We don’t want to risk carrying two mortgages, so how is this possible? The idea of an extra monthly payment is scary, but we have a solid strategy we’ve been using for years to ensure you don’t get caught in this financial bind. **Check out this short video to see how we minimize the risk of buying and selling at the same time and give you the confidence to achieve your real estate goals.**&nbsp;
 
