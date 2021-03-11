@@ -3,8 +3,6 @@ layout: post
 title: 'Winter Sowing Vs. Winter Growing: What''s the Difference?'
 date: 2021-03-02 01:00:00
 tags:
-  - Home Buyer Tips
-  - Home Seller Tips
   - Real Estate
 excerpt: Lisa Adams joins me to teach us about winter sowing.
 enclosure: >-
