@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Could Your Home Be a Match for Our Buyers?
-date: 2020-07-30 17:25:10
+date: 2020-07-30 17:25:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
+  - Real Estate
 excerpt: I’m digital door knocking to find homes for some of my buyers.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Q-+Could+Your+Home+Be+a+Match+for+Our+Buyers_.mp4
@@ -13,10 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/match-yt-mark-adams.jpg
 youtube_code: uJJNFBFdUxI
 ---
-
 {% include youtube.html %}
 
-<p style="text-align:center"><em>I’m digital door knocking to find homes for some of my buyers.</em></p>
+*I’m digital door knocking to find homes for some of my buyers.*
 
 Today I wanted to share a new opportunity with you that I call “Digital Door Knocking.” As I’m sure many of you are aware, we are experiencing a shortage of inventory in the market right now. In other words, there are not a lot of homes for sale.
 
