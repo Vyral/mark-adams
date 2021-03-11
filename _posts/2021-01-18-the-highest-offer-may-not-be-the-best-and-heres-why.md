@@ -3,8 +3,8 @@ layout: post
 title: 'The Highest Offer May Not Be the Best, and Here’s Why'
 date: 2021-01-18 11:00:00
 tags:
-  - Home Buyer Tips
   - Home Seller Tips
+  - Real Estate
 excerpt: Here’s why the highest offer isn’t always the best one.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/The+Highest+Offer+May+Not+Be+the+Best%2C+and+Here%E2%80%99s+Why.mp4
