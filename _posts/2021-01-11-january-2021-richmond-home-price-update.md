@@ -3,6 +3,8 @@ layout: post
 title: January 2021 Richmond home price update
 date: 2021-01-11 13:00:00
 tags:
+  - Real Estate
+  - Market Update
 excerpt: The real estate market is golden for sellers right now.
 enclosure:
 pullquote:
@@ -12,7 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/adams-fb.png
 youtube_code:
 ---
-
 ![](/uploads/adams-fb.png){: width="100%"}
 
 Friends and Clients —
