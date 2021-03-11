@@ -3,8 +3,8 @@ layout: post
 title: How Can You Calculate Your Home’s True Worth?
 date: 2021-02-12 09:00:00
 tags:
-  - Home Buyer Tips
   - Home Seller Tips
+  - Real Estate
 excerpt: Here’s how to get an accurate valuation of your home.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/How+Can+You+Calculate+Your+Home%E2%80%99s+True+Worth_.mp4
