@@ -3,6 +3,8 @@ layout: post
 title: What You Need to Know About the New Construction Process
 date: 2020-02-24 17:39:00
 tags:
+  - Real Estate
+  - Home Buyer Tips
 excerpt: >-
   Here’s some essential information to know if you’ve considered buying a new
   construction property.
@@ -16,7 +18,6 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/const-yt-mark-adams.jpg
 youtube_code: 1Uis6CdKAoI
 ---
-
 {% include youtube.html %}
 
 <center>Here&rsquo;s some essential information to know if you&rsquo;ve considered buying a new construction property.</center>
