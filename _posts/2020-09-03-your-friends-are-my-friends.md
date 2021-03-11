@@ -3,8 +3,7 @@ layout: post
 title: Your Friends Are My Friends
 date: 2020-09-03 19:05:00
 tags:
-  - Home Buyer Tips
-  - Home Seller Tips
+  - Real Estate
 excerpt: We want to assist your family and friends too. Help us help them!
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/Your+Friends+Are+My+Friends.mp4
