@@ -3,6 +3,7 @@ layout: post
 title: A Glimpse Into My New Normal
 date: 2020-04-09 17:10:00
 tags:
+  - Real Estate
 excerpt: >-
   Here’s a light-hearted look at how I’m keeping my real estate business moving
   in these unusual times.
@@ -15,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/day-yt-mark-adams.jpg
 youtube_code: Ud6DhqT6p6s
 ---
-
 {% include youtube.html %}
 
 *Here’s a light-hearted look at how I’m keeping my real estate business moving in these unusual times.*
