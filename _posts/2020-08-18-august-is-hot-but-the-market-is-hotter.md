@@ -5,6 +5,7 @@ date: 2020-08-18 15:30:00
 tags:
   - Market Update
   - Home Seller Tips
+  - Real Estate
 excerpt: Our real estate market is red-hot for sellers right now.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2020/August+Is+Hot%2C+But+the+Market+Is+Hotter.mp4
