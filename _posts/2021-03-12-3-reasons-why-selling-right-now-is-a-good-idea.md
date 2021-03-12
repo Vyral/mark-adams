@@ -20,6 +20,8 @@ youtube_code: JV2OYSRZrzw
 
 <center><em>Don&rsquo;t sell yourself short by waiting to put your home on the market. </em></center>
 
+<center>&nbsp;</center>
+
 We’re in the middle of a market I’ve never seen before in my two decades of real estate. Sellers are at a unique advantage as buyers are using enticing ways to get their offers accepted. **We’re selling homes for well above asking price, and even having appraisal and inspection contingencies waived.&nbsp;**
 
 You might be thinking, “Sure, that sounds amazing, but WHERE am I going to go if I sell my house right now?” I’m getting this question left and right, so I wanted to propose an option. Stick with me while I explain why you should simply move out. Your next dream home may not be available yet, but I have three reasons why you may not want to wait for it to come along to sell your current house. I know the idea of temporary housing doesn’t sound the most appealing, but I’ll tell you why it might be worth it to you.&nbsp;
