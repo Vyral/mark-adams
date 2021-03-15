@@ -3,7 +3,6 @@ layout: post
 title: What Are Your Favorite Memories of Your Father?
 date: 2020-06-15 19:19:00
 tags:
-  - Real Estate
   - Fun Stuff
 excerpt: We're sharing some fond memories of our dads.
 enclosure: >-
