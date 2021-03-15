@@ -3,7 +3,6 @@ layout: post
 title: What Are You Thankful for This Year?
 date: 2020-11-18 16:00:00
 tags:
-  - Real Estate
   - Fun Stuff
 excerpt: The Mark Adams Team is grateful for so many things this year.
 enclosure: >-
