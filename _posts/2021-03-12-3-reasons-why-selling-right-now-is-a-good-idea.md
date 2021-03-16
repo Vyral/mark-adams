@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/3-reasons-to-sell-now-yt-mark-adams-ss.jpg
+youtube_alternate_image: /uploads/2021-03-16.jpg
 youtube_code: JV2OYSRZrzw
 ---
 {% include youtube.html %}
