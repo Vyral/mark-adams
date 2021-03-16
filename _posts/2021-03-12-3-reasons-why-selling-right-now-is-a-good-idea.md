@@ -12,7 +12,7 @@ pullquote: >-
   their offers accepted.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/2021-03-16.jpg
 youtube_code: JV2OYSRZrzw
 ---
