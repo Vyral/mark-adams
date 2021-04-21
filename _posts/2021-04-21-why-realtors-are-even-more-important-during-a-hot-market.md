@@ -18,7 +18,7 @@ youtube_code: XAcTAboto2U
 ---
 {% include youtube.html %}
 
-<center>Here&rsquo;s how Realtors can help you make more from your home sale.</center>
+<center><em>Here&rsquo;s how Realtors can help you make more from your home sale.</em></center>
 
 <center>&nbsp;</center>
 
