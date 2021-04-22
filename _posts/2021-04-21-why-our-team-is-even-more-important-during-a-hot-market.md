@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why our team is Even More Important During a Hot Market
+title: Why Our Team is Even More Important During a Hot Market
 date: 2021-04-21 10:00:00
 tags:
   - Home Seller Tips
