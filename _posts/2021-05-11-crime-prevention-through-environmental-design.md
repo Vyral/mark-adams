@@ -11,7 +11,7 @@ pullquote: Lighting shows ownership.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/cpted-yt-mark-adams-ss.jpg
+youtube_alternate_image: /uploads/2021-05-12.jpg
 youtube_code: oG4NI100urc
 ---
 {% include youtube.html %}
