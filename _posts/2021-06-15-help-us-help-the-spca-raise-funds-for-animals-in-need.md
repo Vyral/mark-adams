@@ -18,13 +18,7 @@ youtube_code: 9BGtoTDbTzk
 
 <center><em>Here&rsquo;s why we&rsquo;re partnering with the SPCA to raise funds for local animals.</em></center>
 
-<center>&nbsp;</center>
-
-<center>**Here are our fundraising pages with our stories and links to donate:**
-
-[Lisa’s Page](https://support.richmondspca.org/fundraiser/3204757)
-
-[Mark’s Page](https://support.richmondspca.org/fundraiser/3197713)</center>
+<center>&nbsp;<p><strong>Here are our fundraising pages with our stories and links to donate:</strong></p><p><a href="https://support.richmondspca.org/fundraiser/3204757">Lisa&rsquo;s Page</a></p><p><a href="https://support.richmondspca.org/fundraiser/3197713">Mark&rsquo;s Page</a></p></center>
 
 Today I am coming to you to talk about a cause that is near and dear to our hearts: animals. As you may know, we lost our sweet dog Sadie in November to cancer. We wanted to do something to honor her memory because she meant so much to us.&nbsp;
 
