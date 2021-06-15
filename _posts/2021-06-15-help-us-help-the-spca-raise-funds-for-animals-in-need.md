@@ -20,11 +20,11 @@ youtube_code: 9BGtoTDbTzk
 
 <center>&nbsp;</center>
 
-**Here are our fundraising pages with our stories and links to donate:**
+<center>**Here are our fundraising pages with our stories and links to donate:**
 
 [Lisa’s Page](https://support.richmondspca.org/fundraiser/3204757)
 
-[Mark’s Page](https://support.richmondspca.org/fundraiser/3197713)
+[Mark’s Page](https://support.richmondspca.org/fundraiser/3197713)</center>
 
 Today I am coming to you to talk about a cause that is near and dear to our hearts: animals. As you may know, we lost our sweet dog Sadie in November to cancer. We wanted to do something to honor her memory because she meant so much to us.&nbsp;
 
