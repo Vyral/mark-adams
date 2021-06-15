@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Help Us Help the SPCA Raise Funds for Animals in Need
-date: 2021-05-27 09:00:00
+date: 2021-06-15 09:00:00
 tags:
   - Real Estate
 excerpt: Here’s why we’re partnering with the SPCA to raise funds for local animals.
