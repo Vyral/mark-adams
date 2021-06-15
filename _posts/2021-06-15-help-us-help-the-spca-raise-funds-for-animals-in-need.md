@@ -16,7 +16,7 @@ youtube_code: 9BGtoTDbTzk
 ---
 {% include youtube.html %}
 
-*Here’s why we’re partnering with the SPCA to raise funds for local animals.*
+<p style="text-align:center;"><em>Here’s why we’re partnering with the SPCA to raise funds for local animals.</em></p>
 
 <center>&nbsp;<p><strong>Here are our fundraising pages with our stories and links to donate:</strong></p><p><a target="_blank" rel="noopener" href="https://support.richmondspca.org/fundraiser/3204757">Lisa&rsquo;s Page</a></p><p><a target="_blank" rel="noopener" href="https://support.richmondspca.org/fundraiser/3197713">Mark&rsquo;s Page</a></p></center>
 
