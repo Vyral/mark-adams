@@ -20,6 +20,12 @@ youtube_code: 9BGtoTDbTzk
 
 <center>&nbsp;</center>
 
+**Here are our fundraising pages with our stories and links to donate:**
+
+[Lisa’s Page](https://support.richmondspca.org/fundraiser/3204757)
+
+[Mark’s Page](https://support.richmondspca.org/fundraiser/3197713)
+
 Today I am coming to you to talk about a cause that is near and dear to our hearts: animals. As you may know, we lost our sweet dog Sadie in November to cancer. We wanted to do something to honor her memory because she meant so much to us.&nbsp;
 
 Sadie was my garage and fishing buddy and she was Lisa’s best friend and garden helper. She was also a great friend to our cats: Clara, Fuller and Eli. She is greatly missed by our whole family.
