@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Here’s why we’re partnering with the SPCA to raise funds for local animals.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/We%E2%80%99re+helping+animals+in+RVA+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/We%E2%80%99re+helping+animals+in+RVA+(2).mp4
 pullquote: On average, an animal spends 22 days at the SPCA before being adopted.
 enclosure_type: video/mp4
 enclosure_time:
