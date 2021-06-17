@@ -6,17 +6,17 @@ tags:
   - Real Estate
 excerpt: Here’s why we’re partnering with the SPCA to raise funds for local animals.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/We%E2%80%99re+helping+animals+in+RVA.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/We%E2%80%99re+helping+animals+in+RVA+(1).mp4
 pullquote: On average, an animal spends 22 days at the SPCA before being adopted.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/meals-on-wheels-yt-mark-adams-ss.jpg
-youtube_code: mmmyDGSItes
+youtube_code: UFwgVrHd700
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why we’re partnering with the SPCA to raise funds for local animals.</em></p>
+*Here’s why we’re partnering with the SPCA to raise funds for local animals.*
 
 <center>&nbsp;<p><strong>Here are our fundraising pages with our stories and links to donate:</strong></p><p><a target="_blank" rel="noopener" href="https://support.richmondspca.org/fundraiser/3204757">Lisa&rsquo;s Page</a></p><p><a target="_blank" rel="noopener" href="https://support.richmondspca.org/fundraiser/3197713">Mark&rsquo;s Page</a></p></center>
 
