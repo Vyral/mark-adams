@@ -17,7 +17,7 @@ youtube_code: ufzCfbUXOf0
 ---
 {% include youtube.html %}
 
-*Here is your market update comparing data from 2020 to 2021.*
+<p style="text-align:center;"><em>Here is your market update comparing data from 2020 to 2021.</em></p>
 
 <center>&nbsp;</center>
 
