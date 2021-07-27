@@ -16,7 +16,7 @@ youtube_code: Gi7pVcSspsM
 ---
 {% include youtube.html %}
 
-Having pets in your home shouldn’t preclude you from a successful sale.
+<p style="text-align:center;"><em>Having pets in your home shouldn’t preclude you from a successful sale.</em></p>
 
 <center>&nbsp;</center>
 
