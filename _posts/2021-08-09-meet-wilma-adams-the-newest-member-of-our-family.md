@@ -16,7 +16,7 @@ youtube_code: Md2j94mGmos
 ---
 {% include youtube.html %}
 
-*Find out how we adopted our new dog, Wilma.*
+<p style="text-align:center;"><em>Find out how we adopted our new dog, Wilma.</em></p>
 
 <center>&nbsp;</center>
 
