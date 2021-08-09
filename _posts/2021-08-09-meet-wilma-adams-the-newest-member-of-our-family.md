@@ -24,9 +24,9 @@ It’s been about a year now since Hound passed away, and we’ve been talking a
 
 We went to about three different rescues, and they all do it differently. At some agencies you have to find a dog you want before you fill out the application. For others, you’d fill out an application and they’d match you with a dog, and this was what we did for Wilma.
 
-{% include pullquote.html %}
-
 **This time around it was pretty emotional.** The rescue had matched us with Wilma, and we only had a certain amount of time to respond to get our appointment. By the time Lisa had seen the email, it was too late, and we’d missed the chance to meet her. That was tough.&nbsp;
+
+{% include pullquote.html %}
 
 But, lucky for us, **the other people had to cancel their appointment, so we got another chance to adopt Wilma\!** We learned from her foster mother, Brenda who volunteers with [Lab Rescue LRCP](https://www.lab-rescue.org/), that Wilma came in as an abandoned pup in pretty bad shape with her little sister Betty.
 
