@@ -28,10 +28,10 @@ We went to about three different rescues, and they all do it differently. At som
 
 {% include pullquote.html %}
 
-But, lucky for us, **the other people had to cancel their appointment, so we got another chance to adopt Wilma\!** We learned from her foster mother, Brenda who volunteers with [Lab Rescue LRCP](https://www.lab-rescue.org/), that Wilma came in as an abandoned pup in pretty bad shape with her little sister Betty.
+Lucky for us, **the other people had to cancel their appointment, so we got another chance to adopt Wilma\!** We learned from her foster mother, Brenda, who volunteers with [Lab Rescue LRCP](https://www.lab-rescue.org/), that Wilma came in as an abandoned pup in pretty bad shape with her little sister Betty.
 
 We’re super excited to have her, and we can’t wait to see what the cats think\!
 
 As you might already know, we recently made a commitment to raise funds for the [Richmond SPCA](https://richmondspca.org/). You partnered with us to help exceed our goal. We raised $2,844\! Thank you so much for your generosity. Now we are making a different kind of commitment, one that will give us years of joy and companionship, by adopting Wilma\!
 
-And as always, feel free to reach out to us with any real estate question you might have.
+As always, feel free to reach out to us with any real estate question you might have.
