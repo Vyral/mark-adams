@@ -16,13 +16,13 @@ youtube_code: Md2j94mGmos
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Find out how we adopted our new dog, Wilma.</em></p>
+*Find out how we adopted our new dog, Wilma.*
 
 <center>&nbsp;</center>
 
 It’s been about a year now since Hound passed away, and we’ve been talking about getting another dog. Lisa’s really big on the adoption process, so I just wanted to share a bit about **how we ended up adopting Wilma.** We were expecting it to be easy, but it really wasn’t.
 
-We went to about three different rescues, and they all do it differently. At some agencies you have to find a dog you want before you fill out the application. For others, you’d fill out an application and they’d match you with a dog, and this was what we did for Wilma.
+We went to about three different rescues, and they all do it differently. At some agencies, you have to find a dog you want before you fill out the application. For others, you’d fill out an application and they’d match you with a dog, and this was what we did for Wilma.
 
 **This time around it was pretty emotional.** The rescue had matched us with Wilma, and we only had a certain amount of time to respond to get our appointment. By the time Lisa had seen the email, it was too late, and we’d missed the chance to meet her. That was tough.&nbsp;
 
