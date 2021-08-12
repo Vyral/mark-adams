@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /wilma-yt-mark-adams-ss.jpg
-youtube_code: Md2j94mGmos
+youtube_code: AqZfuQXoECA
 ---
 {% include youtube.html %}
 
@@ -20,7 +20,7 @@ youtube_code: Md2j94mGmos
 
 <center>&nbsp;</center>
 
-It’s been about a year now since Hound passed away, and we’ve been talking about getting another dog. Lisa’s really big on the adoption process, so I just wanted to share a bit about **how we ended up adopting Wilma.** We were expecting it to be easy, but it really wasn’t.
+It’s been 9 months now since Hound passed away, and we’ve been talking about getting another dog. Lisa’s really big on the adoption process, so I just wanted to share a bit about **how we ended up adopting Wilma.** We were expecting it to be easy, but it really wasn’t.
 
 We went to about three different rescues, and they all do it differently. At some agencies, you have to find a dog you want before you fill out the application. For others, you’d fill out an application and they’d match you with a dog, and this was what we did for Wilma.
 
