@@ -17,7 +17,7 @@ youtube_code: '-1mSUtNENCE'
 ---
 {% include youtube.html %}
 
-Here are my top three methods for finding a great contractor.
+<p style="text-align:center;"><em>Here are my top three methods for finding a great contractor.</em></p>
 
 <center>&nbsp;</center>
 
