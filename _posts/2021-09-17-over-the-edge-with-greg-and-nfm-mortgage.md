@@ -15,7 +15,7 @@ youtube_code: 6qCz7HMf-jY
 ---
 {% include youtube.html %}
 
-Watch as Greg Cowart rappels down the Dominion Power building.
+<p style="text-align:center;"><em>Watch as Greg Cowart rappels down the Dominion Power building.</em></p>
 
 <center>&nbsp;</center>
 
