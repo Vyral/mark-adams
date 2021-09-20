@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Watch as Greg Cowart rappels down the Dominion Power building.
 enclosure:
-pullquote:
+pullquote: With your help, we raised $2,874.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -15,12 +15,18 @@ youtube_code: 6qCz7HMf-jY
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Watch as Greg Cowart rappels down the Dominion Power building.</em></p>
+*Watch as Greg Cowart rappels down the Dominion Power building.*
 
 <center>&nbsp;</center>
 
-If you recall, we sent out a message not long ago about raising money for the SPCA, and we were looking for your help. The goal was to raise over $2,500 and win an opportunity to rappel off the 335-foot-tall Dominion Power building.&nbsp;
+As you know, we recently participated in the Richmond SPCA's “Over the Edge” fundraiser to raise money for the animals in our community. Those who reached the $2,500 fundraising goal were entered into the "Toss Your Boss" contest - if you hit a certain goal, you got to send your boss over the edge of the second tallest building in RVA.&nbsp;
 
-**We reached and surpassed our goal\!** With your help, we raised $2,700 and raffled off the rappel opportunity to raise even more money. Jessie Perone from NFM Mortgage won the opportunity but graciously gave it to her boss, Greg Cowart. Check out the video above, starting at 0:54, where we tell Greg that he’s the lucky winner and see footage of him rappelling down the massive edifice.
+**We reached and surpassed our goal\!** With your help, we raised $2,874. Lisa surpassed the team goal, guaranteeing herself a rappelling spot, but we decided it would be more fun to raffle Lisa's spot off instead. We held a client and vendor appreciation event in July, and anyone who donated at least $25 was entered into the raffle.&nbsp;
 
-If you have any real estate-related questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+The winner of the raffle was Jesse Perrone, who works with our preferred lender, Greg Cowart of NFM Lending. **Instead of using the ticket for herself, Jesse decided she wanted to toss HER boss.** The funny part was that she didn't tell him\! Instead, she put a lunch date with his wife on his calendar. You might remember Greg from our pumpkin taste test video.&nbsp;
+
+{% include pullquote.html %}
+
+He is always able to improvise quickly, and takes surprises very well. **Check out the video above, starting at 0:54,** where we tell Greg that he’s the lucky winner and see footage of him rappelling down the massive edifice. We'd like to give him a special shout-out for not only being a great and trusted lender, but a great sport, too.
+
+If you have any real estate-related questions for us, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
