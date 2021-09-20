@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Over the Edge With Greg and NFM Mortgage
+title: Over the Edge With Greg and NFM Lending
 date: 2021-09-17 09:00:00
 tags:
   - Real Estate
@@ -15,7 +15,7 @@ youtube_code: 6qCz7HMf-jY
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Watch as Greg Cowart rappels down the Dominion Power building.</em></p>
+*Watch as Greg Cowart rappels down the Dominion Power building.*
 
 <center>&nbsp;</center>
 
@@ -23,7 +23,7 @@ As you know, we recently participated in the Richmond SPCA's “Over the Edge”
 
 **We reached and surpassed our goal\!** With your help, we raised $2,874. Lisa surpassed the team goal, guaranteeing herself a rappelling spot, but we decided it would be more fun to raffle Lisa's spot off instead. We held a client and vendor appreciation event in July, and anyone who donated at least $25 was entered into the raffle.&nbsp;
 
-The winner of the raffle was Jesse Perrone, who works with our preferred lender, Greg Cowart of NFM Lending. **Instead of using the ticket for herself, Jesse decided she wanted to toss HER boss.** The funny part was that she didn't tell him\! Instead, she put a lunch date with his wife on his calendar. You might remember Greg from our pumpkin taste test video.&nbsp;
+The winner of the raffle was Jesse Perrone, who works with our preferred lender, Greg Cowart of NFM Lending. (You might remember Greg from our pumpkin taste test video.)&nbsp;**Instead of using the ticket for herself, Jesse decided she wanted to toss HER boss.** The funny part was that she didn't tell him\! Instead, she put a lunch date with his wife on his calendar.
 
 {% include pullquote.html %}
 
