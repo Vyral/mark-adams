@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: MLS data is showing us that we’re likely near the peak of the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/When+Will+We+Reach+the+Peak+of+the+Market_.mp4
 pullquote: I think we’re very close to a peak in the market.
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,11 +23,11 @@ youtube_code: CzmWxaJNtOw
 
 I get asked a lot about when we’ll know if we’re reaching the peak of this market. I have some statistics from our regional MLS that I want to share with you. I think they give us some idea of where the market’s headed:
 
-**Average sales price.**&nbsp;In January of 2020, the average sales price was around $295,000. In January of 2021, the average sales price was $321,000. In September, the average sales price reached $357,000.
+**Average sales price.** In January of 2020, the average sales price was around $295,000. In January of 2021, the average sales price was $321,000. In September, the average sales price reached $357,000.
 
 **Homes for sale.** In January of 2020, there were 4,000 homes available. In January of 2021, there were only 2,000. Inventory is really low. In September of 2021, there were still only 2,000 available, when there should normally be 4,000. That's why we continue to see prices go up.
 
-**Days on market.** We had 49 days in January of 2020, 25 days in January of 2021, and 15 days in September of 2021. As far as days on market, it almost halved every step there. That's amazing, right?&nbsp;
+**Days on market.** We had 49 days in January of 2020, 25 days in January of 2021, and 15 days in September of 2021. As far as days on market, it almost halved every step there. That's amazing, right?
 
 {% include pullquote.html %}
 
