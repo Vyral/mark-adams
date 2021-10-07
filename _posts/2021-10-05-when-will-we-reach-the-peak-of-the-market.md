@@ -17,7 +17,7 @@ youtube_code: CzmWxaJNtOw
 ---
 {% include youtube.html %}
 
-*MLS data is showing us that we’re likely near the peak of the market.*
+<p style="text-align:center;"><em>MLS data is showing us that we’re likely near the peak of the market.</em></p.
 
 <center>&nbsp;</center>
 
