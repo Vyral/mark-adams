@@ -16,13 +16,13 @@ youtube_code: CzmWxaJNtOw
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>MLS data is showing us that we’re likely near the peak of the market.</em></p>
+*MLS data is showing us that we’re likely near the peak of the market.*
 
 <center>&nbsp;</center>
 
 I get asked a lot about when we’ll know if we’re reaching the peak of this market. I have some statistics from our regional MLS that I want to share with you. I think they give us some idea of where the market’s headed:
 
-**Average sales price.** In January of 2020, the average sales price was around $295,000. In January of 2021, the average sales price was $321,000. In September, the average sales price reached $357,000
+**Average sales price.**&nbsp;In January of 2020, the average sales price was around $295,000. In January of 2021, the average sales price was $321,000. In September, the average sales price reached $357,000.
 
 **Homes for sale.** In January of 2020, there were 4,000 homes available. In January of 2021, there were only 2,000. Inventory is really low. In September of 2021, there were still only 2,000 available, when there should normally be 4,000. That's why we continue to see prices go up.
 
