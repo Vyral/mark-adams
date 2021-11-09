@@ -18,6 +18,6 @@ youtube_code: RMGW173Vk6Y
 
 {% include excerpt.html %}
 
-Thank you for coming out to our fifth annual zoo event. **We had a great time seeing all of our amazing clients and walking around the Richmond Metro Zoo.** While we were there, we also collected a ton of food for [Feed More](https://feedmore.org/). We put together a short highlight reel of the event. Check it out in the video above.
+Thank you for coming out to our fifth annual zoo event. **We had a great time seeing all of our amazing clients and walking around the Metro Richmond Zoo.** While we were there, we also collected a ton of food for [Feed More](https://feedmore.org/). We put together a short highlight reel of the event. Check it out in the video above.
 
 As always, give us a call if you have any questions. We’d love to help, and thanks again for coming out to the zoo with us.
