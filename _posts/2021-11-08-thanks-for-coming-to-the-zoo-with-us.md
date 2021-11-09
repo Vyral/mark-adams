@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/zoo-yt-mark-adams-ss.jpg
+youtube_alternate_image: /uploads/zoo-yt-mark-adams-ss-1.jpg
 youtube_code: RMGW173Vk6Y
 ---
 {% include youtube.html %}
