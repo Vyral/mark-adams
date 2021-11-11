@@ -6,7 +6,8 @@ tags:
     - Real Estate
     - Market Update
 excerpt: Here are some highlights and clips from our fifth annual zoo event.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/Thanks+for+Coming+To+the+Zoo+With+Us.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
