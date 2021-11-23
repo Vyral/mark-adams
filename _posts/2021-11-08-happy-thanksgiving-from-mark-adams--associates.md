@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s why we’re so thankful for you as we reflect on this past year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/Happy+Thanksgiving+From+Mark+Adams+%26+Associates.mp4
 pullquote: Your trust and support mean the world to us.
 enclosure_type: video/mp4
 enclosure_time:
