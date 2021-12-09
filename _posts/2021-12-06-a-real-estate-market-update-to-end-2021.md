@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s a brief end-of-year real estate market update for Central Virginia.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2021/A+Real+Estate+Market+Update+to+Round+Out+2021.mp4
 pullquote: If you're a buyer, you can still take advantage of rates in the 3.2% range.
 enclosure_type: video/mp4
 enclosure_time:
