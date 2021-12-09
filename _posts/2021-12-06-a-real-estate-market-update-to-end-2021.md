@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Real Estate Market Update to End 2021
+title: A Real Estate Market Update to Round Out 2021
 date: 2021-12-06 09:00:00
 tags:
   - Real Estate
@@ -32,7 +32,7 @@ Here’s the thing: I believe we'll see the same type of activity as we go into 
 
 If you’re looking to sell and buy, how can you set it up so you’re successful? **We’ve had a lot of success selling properties off-market.** We found buyers for many of our sellers without having to put their homes on the market. These buyers can meet the seller’s needs in price and flexibility to give them the time to find their new home. This situation puts you in a great position as a buyer because your home is already sold.&nbsp;
 
-If you’re thinking about selling, I’d be happy to do a CMA and let you know what your home is worth today. I might already have a buyer in my back pocket who can give you what you’re looking for.
+If you’re thinking about selling, I’d be happy to do a Comparitive Market Analysis and let you know what your home is worth today. I might already have a buyer in my back pocket who can give you what you’re looking for.
 
 If you have any questions about these numbers, the market, or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
