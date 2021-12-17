@@ -24,7 +24,7 @@ For example, one of our goals for 2021 was to build Lisa an amazing garden, and 
 
 Another thing I wanted to do this year was to spend more time with my mom. If you’re like me, then you remember all those great meals you had as a kid that you maybe haven’t had in a long time. I wanted to have some of those meals again and spend more time with my mom, so I started going over to her home for dinner more often. We had some of the classic food from my childhood, but we tried some excellent new dishes as well.&nbsp;
 
-I also had to go on many business trips this year. Typically, I do what I need to do for business and leave, but this year, I tried to make an effort to explore each new area I visited. For example, I went hiking in Arizona, and **the terrain was unlike anything I had seen before. **
+I also had to go on many business trips this year. Typically, I do what I need to do for business and leave, but this year, I tried to make an effort to explore each new area I visited. For example, I went hiking in Arizona, and \*\*the terrain was unlike anything I had seen before. \*\*
 
 {% include pullquote.html %}
 
