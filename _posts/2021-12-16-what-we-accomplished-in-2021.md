@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mark-adams-yt.jpg
-youtube_code: lOr07MLCd8Q
+youtube_code: DJR7NrK3geU
 ---
 {% include youtube.html %}
 
