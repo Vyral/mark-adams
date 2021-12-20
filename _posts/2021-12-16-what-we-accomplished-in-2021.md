@@ -20,9 +20,9 @@ youtube_code: lOr07MLCd8Q
 
 Happy holidays\! Lisa and I love this time of year because it gives us an opportunity to reflect on what we’ve accomplished. Not only that, but we learn from what we did to make next year even better.&nbsp;
 
-For example, one of our goals for 2021 was to build Lisa an amazing garden, and we accomplished it. Lisa wanted us to eat better, and our garden has been providing us with tons of vegetables. **Since we share, all our neighbors are pretty happy with us too\!**
+For example, one of our goals for 2021 was to build Lisa an amazing garden, and we accomplished it. Lisa wanted us to eat better, and our garden has been providing us with tons of vegetables. **Since we share, all our neighbors are pretty happy with us, too\!**
 
-If you’re like me, then you remember all those great meals you had as a kid that you maybe haven’t had in a long time. I wanted to spend more time with my mom this year,, so I started going over to her home for dinner more often. We had some of the classic food from my childhood, but we tried some excellent new dishes as well.&nbsp;
+If you’re like me, then you remember all those great meals you had as a kid that you&nbsp; haven’t had in a long time. I wanted to spend more time with my mom this year, so I started going over to her home for dinner more often. We had some of the classic food from my childhood, but we tried some excellent new dishes, as well.&nbsp;
 
 I also had to go on many business trips this year. Typically, I do what I need to do for business and leave, but this year, I made an effort to explore each new area I visited. For example, I went hiking in Arizona, and the terrain was unlike anything I had seen before.
 
@@ -30,7 +30,7 @@ I also had to go on many business trips this year. Typically, I do what I need t
 
 Usually, Lisa and I aren’t big spenders, but I had been talking recently about how I wanted a new truck. When she took her truck to the dealership to be serviced, she found almost exactly what I had been looking for, and she surprised me with the vehicle when she came home. This wasn’t on our list of goals, but it was an awesome surprise and certainly a highlight of the year.&nbsp;
 
-Something that’s important to Lisa and me is service. Recently, I had the opportunity to help teach a shop class for a local school. I was super excited, and it’s been the highlight of my week ever since I started doing it. Helping kids learn something I love has been incredibly rewarding, and **I look forward to teaching the class in the future.&nbsp;**
+Something that’s important to me and Lisa is service. Recently, I had the opportunity to help teach a shop class for a local school. I was super excited, and it’s been the highlight of my week ever since I started doing it. Helping kids learn something I love has been incredibly rewarding, and **I look forward to teaching the class in the future.&nbsp;**
 
 As we look forward to 2022, one of the highlights for Lisa and I will be our 32-year wedding anniversary. It’s hard to believe it’s been that long, but I’ve loved spending my life with her.&nbsp;
 
