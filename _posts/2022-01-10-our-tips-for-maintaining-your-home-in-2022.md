@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Tips For Maintaining Your Home in 2022
+title: Our Tips For Reviving Your Home in 2022
 date: 2022-01-10 09:00:00
 tags:
   - Real Estate
@@ -17,13 +17,13 @@ youtube_code: Wwke5vVI1IM
 
 {% include excerpt.html %}
 
-Happy New Year\! It’s the time of year when everyone is making a list of what they want to get done with their home, and I have some great tips to help you accomplish your goals. Lisa and I do this exercise every year, so we want to go over how we maintain our home each year.&nbsp;
+Happy New Year\! It’s the time of year when everyone is making a list of what they want to get done with their home, and I have some great tips to help you accomplish your goals. Lisa and I do this exercise every year, so we want to go over how we revive our home:
 
 **1\. Wipe down your shower after every use.** This will prevent mold from building up, so you won't have to remove it later.&nbsp;
 
 **2\. Re-caulk your shower.** Unfortunately, wiping down your shower won’t prevent the caulk from turning yellow. If you replace the caulk, you’d be surprised how new your shower will look.&nbsp;
 
-**3\. Spray your glass shower door with Rain-X every three months.** This will prevent water, and soap scum, from sticking to your shower door. It will look brand-new all year round.&nbsp;
+**3\. Spray your glass shower door with Rain-X every three months.** This will prevent water and soap scum from sticking to your shower door. It will look brand-new all year round.&nbsp;
 
 **4\. Change your home decor every three months.** Lisa changes our decor based on the season. Her tip for you is that instead of buying new pillows, she simply buys new pillowcases. This way, we get a fresh, seasonal look without breaking the bank.
 
