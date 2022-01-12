@@ -39,6 +39,6 @@ Happy New Year\! It’s the time of year when everyone is making a list of what 
 
 **9\. Install switch plate covers.** This way, you don’t have to replace the receptacle ever again. The convenience switch plate covers offer is unmatched.&nbsp;
 
-Hopefully, these tips gave you some ideas on how to maintain your home in 2022. If you have a tip you’d like to share with me, leave it in the chat or send me an email. I’d love to share it with everyone else\!
+Hopefully, these tips gave you some ideas on how to breathe new life into your home in 2022. If you have a tip you’d like to share with me, leave it in the chat or send me an email. I’d love to share it with everyone else\!
 
 &nbsp;
