@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/refresh-yt-mark-adams-ss.jpg
-youtube_code: Wwke5vVI1IM
+youtube_code: 7mTmLSjrlkc
 ---
 {% include youtube.html %}
 
