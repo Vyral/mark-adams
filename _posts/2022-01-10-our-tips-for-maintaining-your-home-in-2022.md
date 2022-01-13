@@ -5,7 +5,8 @@ date: 2022-01-10 09:00:00
 tags:
   - Real Estate
 excerpt: 'Here are our tips for maintaining and refreshing your home in 2022. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2022/Our+Tips+For+Reviving+Your+Home+in+2022+(1).mp4
 pullquote: 'Subtle changes to your home can make it really pop. '
 enclosure_type: video/mp4
 enclosure_time:
