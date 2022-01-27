@@ -5,7 +5,8 @@ date: 2022-01-24 09:00:00
 tags:
   - Real Estate
 excerpt: Here’s a quick story about why it’s important to prepare for emergencies.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2022/Are+You+Prepared+for+a+Home+Emergency_+(1).mp4
 pullquote: >-
   Always overestimate how much time you will be out of your home so that you can
   plan your temporary accommodations accordingly.
