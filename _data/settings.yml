@@ -48,7 +48,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.markadamsteam.com/home-worth
   second_CTA_text: Home Search
-  second_CTA_URL: /property-search/
+  second_CTA_URL: https://markadams.exprealty.com/
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Richmond Home Worth?
@@ -62,7 +62,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a Richmond Home?
     CTA_text2: Search the entire MLS for your Richmond home.
     CTA_link_text2: Search the MLS
-    CTA_url2: /property-search/
+    CTA_url2: https://markadams.exprealty.com/
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
     CTA_link_text3: Client Testimonials
