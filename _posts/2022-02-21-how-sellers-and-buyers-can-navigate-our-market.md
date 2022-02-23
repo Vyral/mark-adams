@@ -28,7 +28,7 @@ In January of 2021, we had 1,991 new homes hit the market, while in 2022 we only
 
 As for days on market, we had an average of around seven in January of 2021, and it’s the same now. However, this number is a little misleading. If you price your home correctly and work with a great team, you can easily sell your home in a day or two.
 
-**What does this all mean for you?** We know interest rates are increasing, and buyers seem frustrated with rising prices. When rates do increase, prices will probably have to go down, so if you’re looking to sell, now might be the best time. Meanwhile, buyers will want to purchase a house before rates hike since even small rate increases hurt your buying power quite a bit.
+**What does this all mean for you?** We know interest rates are increasing, and buyers seem frustrated with rising prices. When rates do increase, prices will probably have to go down, so if you’re looking to sell, now might be the best time. Meanwhile, buyers will want to purchase a house before rates hike since even small rate increases hurt your buying power quite a bit. Are you interested in searching for available homes in the RVA area? You can access any MLS listing here:&nbsp;[https://markadams.exprealty.com/](https://markadams.exprealty.com/){: target="_blank"}
 
 My team is currently sitting on 15 buyers desperate to buy a home before rates increase. If you are looking to buy or sell, please call or email us. We’d love to help you\!
 
