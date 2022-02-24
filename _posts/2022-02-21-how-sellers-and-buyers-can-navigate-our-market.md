@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Comparing today’s market to January 2021 and what the numbers mean for you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2022/How+Sellers+and+Buyers+Can+Navigate+Our+Market+(1).mp4
 pullquote: 'If you’re looking to sell, now might be the best time. '
 enclosure_type: video/mp4
 enclosure_time:
