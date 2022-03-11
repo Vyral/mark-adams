@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/fire-ext-yt-mark-adams-ss.jpg
-youtube_code: 0If0u_IeQyg
+youtube_code: qzJw3UqgBiI
 ---
 {% include youtube.html %}
 
