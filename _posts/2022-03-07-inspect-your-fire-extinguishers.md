@@ -17,7 +17,7 @@ youtube_code: 0If0u_IeQyg
 
 {% include excerpt.html %}
 
-Today I'll talk about fire extinguisher safety and inspections. When I was doing my research on this topic, the first thing I did was look at my fire extinguishers to see if they were safe, full, and able to be used correctly. I discovered that mine isn't.
+Today I'll talk about fire extinguisher safety and inspections. When I was doing my research on this topic, the first thing I did was look at my fire extinguishers to see if they were safe, full, and able to be used correctly. I discovered that mine weren't.
 
 I learned that when you store your fire extinguisher, the information needs to face the outside so the user can see it when they're grabbing the canister. The little safety pin keeps from you accidentally depressing the fire extinguisher. There's also a gauge that shows how full your extinguisher is.
 
@@ -25,7 +25,7 @@ Fire extinguishers should be thrown out after about 12 to 13 years and exchanged
 
 {% include pullquote.html %}
 
-I also learned that **there are class A, B, and C fire extinguishers.** Class A is for wood or paper products. B is for liquids. C is for electrical fires. When you're buying your fire extinguisher, you want to get an A, B, and C class fire extinguisher for your kitchen. If you like candles or have a fireplace in the house you should have another fire extinguisher nearby.
+There are three classes of fire extinguishers; Class A is for wood or paper products, class B is for liquids, and class C is for electrical fires. When you're buying your fire extinguisher, you want to get an A, B, and C class fire extinguisher for your kitchen. If you like candles or have a fireplace in the house you should have another fire extinguisher nearby.
 
 I hope you found this information valuable. If you have any questions, don’t hesitate to reach out to me by phone or email. I look forward to hearing from you.
 
