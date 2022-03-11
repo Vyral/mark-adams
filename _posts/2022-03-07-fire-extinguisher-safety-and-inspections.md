@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fire Extinguisher Safety and Inspections
+title: Inspect Your Fire Extinguishers
 date: 2022-03-07 09:00:00
 tags:
   - Real Estate
