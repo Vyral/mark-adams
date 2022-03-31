@@ -27,9 +27,9 @@ If interest rates go up, how does that affect you? In the last month, interest r
 
 * New listings are up slightly from 1,795 to 1,907 year over year. That’s a good sign.
 
-* Closed sales are down from 1,475 to 1,314 year over year. The reason for this is two-fold. Inventory is obviously putting a constraint on things, but a lot more buyers are backing out of contracts these days because they’re having to make such crazy, competitive offers to win.
+* Closed sales are down from 1,475 to 1,314 year over year. The reason for this is twofold. Inventory is obviously putting a constraint on things, but a lot more buyers are backing out of contracts these days because they’re having to make such crazy, competitive offers to win.
 
-* The average days on market remain flat at around six days.
+* The average days on market remains flat at around six days.
 
 * The list-to-sale price ratio for the average home is up from 100.9% to 102%. This tells us houses are selling for more.
 
