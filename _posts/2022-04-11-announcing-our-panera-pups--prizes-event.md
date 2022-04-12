@@ -27,4 +27,4 @@ The bottom line is that we see your posts all the time, and we want to meet both
 
 **Please join us at 7521 Comanche Drive on April 30 from 9 a.m. to 11 a.m.** We’d love to see you there. If you have any questions in the meantime, feel free to call or email us. We’d love to hear from you.
 
-![](/uploads/invitation-for-fb---png.png){: width="1250" height="800"}
+![](/uploads/invitation-for-fb---png.png){: width="800" height="400"}
