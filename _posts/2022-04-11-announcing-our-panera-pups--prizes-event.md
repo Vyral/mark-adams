@@ -23,7 +23,7 @@ It’s an opportunity to say thank you to our clients, but we’re also going to
 
 {% include pullquote.html %}
 
-The bottom line is that we see your posts all the time, and we want to meet both you and your pup in person. To do that, we’re willing to bribe you with a free Panera breakfast. We’re also going to have a doggy treasure hunt, where you and your pup can look for these little ice cream cones with treats inside. Every pup that shows up will get a little doggy bag, and we have $500 worth of prizes that you can win. The first-place reward is $100\! To sign-up for this event, and have a chance to win the grand prize, [click here.](https://forms.gle/E2Yz922LWtc5526T9){: target="_blank" rel="noopener"}
+The bottom line is that we see your posts all the time, and we want to meet both you and your pup in person. To do that, we’re willing to bribe you with a free Panera breakfast. We’re also going to have a doggy treasure hunt, where you and your pup can look for these little ice cream cones with treats inside. Every pup that shows up will get a little doggy bag, and we have $500 worth of prizes that you can win. The first-place reward is $100\! To sign-up for this event and have a chance to win the grand prize, [click here.](https://forms.gle/E2Yz922LWtc5526T9){: target="_blank" rel="noopener"}
 
 **Please join us at 7521 Comanche Drive on April 30 from 9 a.m. to 11 a.m.** We’d love to see you there. If you have any questions in the meantime, feel free to call or email us. We’d love to hear from you.
 
