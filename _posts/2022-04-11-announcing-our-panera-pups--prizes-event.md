@@ -5,7 +5,8 @@ date: 2022-04-11 00:00:00
 tags:
   - Fun Stuff
 excerpt: We’re hosting a Panera, Pups, and Prizes event on April 30 at 9 a.m.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2022/Announcing+Our+Panera%2C+Pups%2C+%26+Prizes+Event.mp4
 pullquote: We want to meet your dog!
 enclosure_type: video/mp4
 enclosure_time:
