@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/ppp-yt-mark-adams-ss.jpg
-youtube_code: J2WmW-Fcd4o
+youtube_code: hi7JfOEWapY
 ---
 {% include youtube.html %}
 
