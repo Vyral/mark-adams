@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Here’s the latest data from our local Central Virginia real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2022/WW91ciBBcHJpbCAyMDIyIFZpcmdpbmlhIEhvdXNpbmcgTWFya2V0IFVwZGF0ZS5tcDQ%3D+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
