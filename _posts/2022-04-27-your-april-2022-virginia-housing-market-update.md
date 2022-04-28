@@ -32,7 +32,7 @@ Are you interested in knowing where home prices are going? Today we want to go o
 
 3:36 — The national historical median home value
 
-4:50 — The market usually rises and levels off, but 2020 is not normal
+4:50 — The market usually rises and levels off, but 2020 was not normal
 
 5:56 — We’re looking at some sort of market adjustment
 
