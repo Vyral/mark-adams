@@ -5,7 +5,7 @@ date: 2022-05-09 00:00:00
 tags:
   - Real Estate
   - Fun Stuff
-excerpt: Here’s a look at the great time we had at our recent client event.
+excerpt: Here’s a look at the great time we had at our recent community event.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
