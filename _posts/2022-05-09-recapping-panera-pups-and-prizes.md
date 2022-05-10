@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thanks for supporting Feed More
+title: Thanks for Supporting Feed More
 date: 2022-05-09 00:00:00
 tags:
   - Real Estate
