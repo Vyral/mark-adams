@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/pups-and-prize-yt-mark-adams-ss.jpg
-youtube_code: z1dN2fP_48U
+youtube_code: zrf_Ex5LHCE
 ---
 {% include youtube.html %}
 
