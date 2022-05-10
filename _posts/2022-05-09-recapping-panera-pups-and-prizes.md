@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/pups-and-prize-email-mark-adams-ss.jpg
+youtube_alternate_image: /uploads/pups-and-prize-yt-mark-adams-ss-1.jpg
 youtube_code: fE7_sC-GYso
 ---
 {% include youtube.html %}
