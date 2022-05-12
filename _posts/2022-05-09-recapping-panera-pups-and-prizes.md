@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Fun Stuff
 excerpt: Here’s a look at the great time we had at our recent community event.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2022/Thanks+for+Supporting+Feed+More+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
