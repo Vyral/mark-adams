@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Important Tools for Today’s Homebuyers
+title: 3 Important Tools for Today’s Buyers and Sellers
 date: 2022-05-30 00:00:00
 tags:
   - Real Estate
