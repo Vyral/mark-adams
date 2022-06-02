@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here are three tools you can use to better compete in today’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Adams/2022/3+Important+Tools+for+Today%E2%80%99s+Buyers+and+Sellers.mp4
 pullquote: >-
   A HELOC lets you take up to 80% of the equity in your current home to use as a
   down payment on your next house.
