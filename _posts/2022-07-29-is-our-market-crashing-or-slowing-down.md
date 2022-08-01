@@ -11,8 +11,8 @@ pullquote: 'Rising interest rates are causing our market to shift. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/july19--adams-email-version-2.jpg
-youtube_code: vc4c647Jcn4
+youtube_alternate_image: /uploads/july19--adams-email-version-2-1.jpg
+youtube_code: VCrUNYCHIgQ
 ---
 {% include youtube.html %}
 
