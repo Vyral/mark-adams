@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Our Market Crashing? Or Slowing Down?
+title: The Market is Shifting - So Can We
 date: 2022-07-29 14:59:57
 tags:
   - Market Update
@@ -11,7 +11,7 @@ pullquote: 'Rising interest rates are causing our market to shift. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/july-19-adams-youtube.jpg
+youtube_alternate_image: /uploads/july19--adams-email-version-2.jpg
 youtube_code: vc4c647Jcn4
 ---
 {% include youtube.html %}
