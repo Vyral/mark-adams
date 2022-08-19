@@ -24,15 +24,15 @@ youtube_code: YAtV39S3odU
 
 How can you pick the right real estate agent? Helping you buy or sell a home is a crucial role, so it’s important to pick the best person for the job. Today we’re sharing three questions you should ask agents when interviewing them:
 
+**&nbsp;1. How long have they been in the business?** We recommend you hire agents with at least five years of experience. Remember, whether you hire someone who’s been in the business for 30 minutes or 30 years, you’ll still be paying them the same fee.&nbsp;
+
+**2\. How many homes have they sold in your area?**&nbsp;Not only should your agent know your region, but they should also know what’s been happening recently. That’s why we recommend you work with someone who has sold at least three to five homes in the last month. This way, you can be sure they have their finger on the pulse of your market.&nbsp;
+
 &nbsp;
 
 {% include pullquote.html %}
 
 &nbsp;
-
-**&nbsp;1. How long have they been in the business?** We recommend you hire agents with at least five years of experience. Remember, whether you hire someone who’s been in the business for 30 minutes or 30 years, you’ll still be paying them the same fee.&nbsp;
-
-**2\. How many homes have they sold in your area?**&nbsp;Not only should your agent know your region, but they should also know what’s been happening recently. That’s why we recommend you work with someone who has sold at least three to five homes in the last month. This way, you can be sure they have their finger on the pulse of your market.&nbsp;
 
 **3\. What is their list-to-sales price ratio?** If you don’t know, this ratio measures what percentage of the asking price an agent’s clients receive on average. If an agent consistently sells homes for exactly what their list prices are, their list-to-sales price ratio will be 100%. You should be able to ask your agent or look up the average ratio in your area. Once you find it out, compare their ratio to the average. We recommend you work with agents whose ratio is above the average for your area.&nbsp;
 
