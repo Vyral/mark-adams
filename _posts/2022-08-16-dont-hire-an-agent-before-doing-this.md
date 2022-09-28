@@ -6,7 +6,6 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
   - Real Estate
-  - Professional
 excerpt: 'Three questions you need to ask a real estate agent before hiring them. '
 enclosure:
 pullquote: >-
