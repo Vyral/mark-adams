@@ -5,8 +5,8 @@ date: 2022-08-16 00:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
-  - Fun Stuff
   - Real Estate
+  - Professional
 excerpt: 'Three questions you need to ask a real estate agent before hiring them. '
 enclosure:
 pullquote: >-
