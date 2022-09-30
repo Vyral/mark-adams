@@ -36,8 +36,8 @@ Here are a few of its great features:
 
 This app has so many cool features that we think you’ll enjoy exploring. They also have a feature where you can tap a button if you want more specific information about that part of the app. They even have features that can help if you’re thinking about buying a property.
 
-Your house is the largest asset you’re ever likely to own, and Homebot can help you make informed decisions. It's free and provides valuable market data and wealth-building insights.
+Your house is the largest asset you’re ever likely to own, and Homebot can help you make informed decisions. It provides valuable market data and wealth-building insights. Homebot is free to you, and it’s coming to your email from us, so be on the lookout for it.
 
-[Enter your address here for your instant home value](https://www.markadamsteam.com/home-worth/)
+&nbsp;
 
 If you have questions for us about real estate or if we can help you in any way, don’t hesitate to reach out via phone, text, or email. We would love to help you.
