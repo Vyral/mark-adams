@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Sending You Homebot for Free!
-date: 2022-09-30 07:00:00
+date: 2021-05-27 07:00:00
 tags:
   - Real Estate
 excerpt: We’re sending you the Homebot app, so here are some of its great features.
