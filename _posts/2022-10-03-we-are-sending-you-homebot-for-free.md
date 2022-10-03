@@ -22,7 +22,7 @@ youtube_code: TDhEQUQnBj8
 
 Do you want to know what your home is worth? Do you want to know how much equity you have in your house? I can provide those answers for free right now. For years, my team and I have been researching companies for an app that we could send to our clients for free that would tell them the value of their homes. We finally found it, and it’s called Homebot.&nbsp;
 
-Here are a few of its great features:
+Here are a few of its great features:&nbsp;
 
 **1\. Home value.** One tap shows you the value of your home. The app may not know about your home’s amenities, so you can also adjust the value higher or lower based on what your home includes.&nbsp;
 
