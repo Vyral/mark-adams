@@ -28,7 +28,7 @@ Here are a few of its great features:&nbsp;
 
 **2\. Your equity position.** By the time the average American retires, 83% of their wealth comes from home equity. Homebot helps you keep track of your equity position.
 
-**3\. Amortization chart.** This tells you how much you would save on interest if you made extra mortgage payments. Personalized calculations can help you save money and pay off your loans quicker.
+**3\. Amortization chart.** This tells you how much you would save on interest if you made extra mortgage payments. Personalized calculations can help you save money and pay off your loans quicker.&nbsp;
 
 {% include pullquote.html %}
 
