@@ -20,7 +20,7 @@ youtube_code: PgR0TZQeqOs
 
 Are you thinking about buying a house right now? You definitely should not buy a house until you do these three things:
 
-**1\. Make a list of the nonnegotiables you want in the house.** There's no such thing as the perfect house, so you want to have a list of your nonnegotiables. When Lisa and I searched for our current house, we each made a list of ten, and then combined them into a single list of ten. That's how we chose this house. We knew when we looked at it that it was exactly what we were looking for because we had a list.
+**1\. Make a list of the non-negotiables you want in the house.** There's no such thing as the perfect house, so you want to have a list of your nonnegotiables. When Lisa and I searched for our current house, we each made a list of ten, and then combined them into a single list of ten. That's how we chose this house. We knew when we looked at it that it was exactly what we were looking for because we had a list.
 
 {% include pullquote.html %}
 
