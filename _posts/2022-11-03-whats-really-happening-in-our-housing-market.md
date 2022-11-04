@@ -18,7 +18,7 @@ youtube_code: yaGF7bLxYDM
 
 {% include excerpt.html %}
 
-Today, I’m bringing you the monthly market update so you can see exactly what's going on. If you look at the average sales price at 0:13 in the video, you can see that the average sales price is $402,517. This number is still up 12% over this time last year.&nbsp;**That means that home values are staying reallystrong right now.**
+Today, I’m bringing you the monthly market update so you can see exactly what's going on. If you look at the average sales price at 0:13 in the video, you can see that the average sales price is $402,517. This number is still up 12% over this time last year.&nbsp;**That means that home values are staying really strong right now.**
 
 The next statistic I like to look at is days on market. In September, it was eight days, and in October, it was also eight days. The average days on market is slowly creeping up, but it's still really low.
 
