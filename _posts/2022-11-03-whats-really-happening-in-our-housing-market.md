@@ -30,4 +30,4 @@ Sellers are still doing very well in this market. So that begs the question: How
 
 Right now, buyers can opt for a buydown, where you pay money upfront to lower your interest rate. Another thing we're seeing, which I haven't seen since I got in the business 23 years ago, is assumable mortgages. With these, you can take on a seller’s current mortgage and their lower interest rate.&nbsp;
 
-If you’d like some specific home-buying advice or have any other questions, please call or email me. I am always willing to help\!
+If you’d like some specific home-buying advice or have any other questions, please call or email me. Anytime we are in a situation like this people figure out solutions.
