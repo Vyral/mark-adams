@@ -26,8 +26,8 @@ Next, let’s look at the list-to-sales-price ratio. That gives us an idea of ho
 
 {% include pullquote.html %}
 
-Sellers are still doing very well in this market. So that begs the question: How about the buyers? Everybody knows that the interest rate is up to 7%. However, one thing I love about this country is that anytime we're in a situation like this, people come out and figure out solutions.
+Sellers are still doing very well in this market. So that begs the question: How about the buyers? Everybody knows that the interest rate is up to 7%. However, one thing I love about this country is that anytime we’re in a situation like this, people in the industry figure out solutions.
 
 Right now, buyers can opt for a buydown, where you pay money upfront to lower your interest rate. Another thing we're seeing, which I haven't seen since I got in the business 23 years ago, is assumable mortgages. With these, you can take on a seller’s current mortgage and their lower interest rate.&nbsp;
 
-If you’d like some specific home-buying advice or have any other questions, please call or email me. Anytime we are in a situation like this people figure out solutions.
+If you’d like some specific home-buying advice or have any other questions, please call or email me. I am always willing to help\!
