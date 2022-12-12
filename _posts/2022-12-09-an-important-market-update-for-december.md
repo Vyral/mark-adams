@@ -28,7 +28,7 @@ Let’s start with the average sales price. It is currently $395,625, which is 9
 
 To figure this out, I made a table comparing the adjusted sold prices in three different price ranges. The ranges are zero to $350,000, $351,000 to $650,000, and $651,000 and up. You can look at which price range you fall in to know the specific information that pertains to you. To figure out the adjusted sold price percentages, I compared the original list price to the sold price and accounted for concessions.&nbsp;
 
-In the first price range, the adjusted sold price percentage is 95%, with 18 days on market. In the second price range, it’s 99%, with 21 days on market. With the third price range, it’s 100.4%, with 25 days on market. Overall, the important thing I take from this data is that sellers are working with buyers much more in the lower price range that is typically for first-time buyers.&nbsp;
+In the first price range, the adjusted sold price percentage is 95%, with 18 days on market. In the second price range, it’s 99%, with 21 days on market. The third price range is 100.4%, with 25 days on market. Overall, the important thing I take from this data is that sellers are working with buyers much more in the lower price range that is typically for first-time buyers.&nbsp;
 
 **I believe the reason for this is that interest rates are so high.** Sellers are contributing more to buyers to help them lower their rates so they can start with a more manageable mortgage payment. This is great news for first-time homebuyers.&nbsp;
 
