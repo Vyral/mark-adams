@@ -28,4 +28,4 @@ Next, let’s look at the market stats of the homes in different price ranges. D
 
 As for some good news for buyers, interest rates are starting to drop, though they are still higher than what many people would prefer. However, **when buying or selling a house, it is important to consider your lifestyle and current needs rather than just focusing on interest rates.**
 
-Currently, homes listed in the Metro Richmond market are selling within seven to eight days, often for close to, if not above, the asking price. If you're a buyer or seller looking to learn more about the market in your neighborhood, call or email us. We can guide you through the process and share the good things happening in the Metro Richmond real estate market.
+Our team is seeing homes go under contract within 7-8 days of being on the market, and closing for almost, if not above, asking price. If you're a buyer or seller looking to learn more about the market in your neighborhood, call or email us. We can guide you through the process and share the good things happening in the Metro Richmond real estate market.
