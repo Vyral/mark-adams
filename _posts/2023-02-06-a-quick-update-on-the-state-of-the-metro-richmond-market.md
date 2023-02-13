@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Quick Update on the State of the Metro Richmond Market '
-date: 2023-02-06 07:00:00
+date: 2023-02-09 07:00:00
 tags:
   - Market Update
   - Real Estate
