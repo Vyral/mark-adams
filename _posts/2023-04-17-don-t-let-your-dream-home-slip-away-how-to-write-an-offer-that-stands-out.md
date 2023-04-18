@@ -7,9 +7,7 @@ tags:
   - Real Estate
 excerpt: The secret to winning an offer comes down to these three tips.
 enclosure:
-pullquote: >-
-  With the real estate market constantly changing, it can be hard to know how to
-  write the best terms for the property you want to purchase.
+pullquote: You can increase the chances of getting your offer accepted.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
