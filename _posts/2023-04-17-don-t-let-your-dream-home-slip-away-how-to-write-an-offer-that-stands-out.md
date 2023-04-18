@@ -18,7 +18,7 @@ youtube_code: wUha0nJv96w
 
 {% include excerpt.html %}
 
-If you're in the market to buy a house, you know how challenging it can be to get your offer accepted. With the real estate market constantly changing, it can be hard to know how to write the best terms for the property you want to purchase. Today I'll share three tips to help you write the best offer and increase your chances of getting it accepted.
+If you're in the market to buy a house, you know how challenging it can be to get your offer accepted. With the real estate market constantly changing, it can be hard to know how to write the best terms for the property you want to purchase. Today we'll share three tips to help you write the best offer and increase your chances of getting it accepted.
 
 First and foremost, it's crucial to **stay on top of the latest market data.** This will help you determine the right offer price and terms for the specific area you're interested in. At Mark Adams and Associates, we monitor the data every day, allowing us to provide our clients with informed advice on how to write the best offer for their chosen neighborhood.
 
@@ -28,4 +28,4 @@ Another important step is to **call the listing agent before you write your offe
 
 Lastly, it's essential to **put all of the information you've gathered together to construct the best possible offer.** By taking the market data and the seller's preferences into account, you can create a competitive offer that stands out from the rest.
 
-Remember, if you have any questions about this topic or real estate in general, please feel free to reach out to me by phone or email. I would be happy to help you with all of your real estate needs.
+Remember, if you have any questions about this topic or real estate in general, please feel free to reach out to us by phone or email. We would be happy to help you with all of your real estate needs.
