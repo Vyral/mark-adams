@@ -124,7 +124,7 @@ images:
   post_cta_image2: /img/home-search.jpg
 site_colors:
   brand_color: '#85a14d'
-  theme_color: '#6f6a6f'
+  theme_color: '#125176'
   theme_text_color: '#125176'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
