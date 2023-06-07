@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Celebrating Our Pets and Community: Highlights From Our Recent April Events'
+title: 'Celebrating Our Pets and Community: Highlights From Our Recent Events'
 date: 2023-05-24 07:00:00
 tags:
   - Fun Stuff
-excerpt: Sharing highlights from our recent April events, which were successful.
+excerpt: Sharing highlights from our recent events, which were successful.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: vcCTZnjqAMA
 
 {% include excerpt.html %}
 
-Today, we’re very excited to share some of the highlights of our recent April events. We had such a blast meeting new people and their dogs. Therefore, we wanted to take some time to share some of our favorite moments with you in the video above.&nbsp;
+Today, we’re very excited to share some of the highlights of our recent events. We had such a blast meeting new people and their dogs. Therefore, we wanted to take some time to share some of our favorite moments with you in the video above.&nbsp;
 
 We love to support local animal causes by organizing pack walks, pet food drives, and more. In April, we hosted a pack walk at Dogwood Dell, sponsored the Doggone 5K, 3K, and 1K events at the Pole Green Park, and supported the Richmond Animal League at the 2023 Woofstock event.&nbsp;**Giving back to the community is an important part of our real estate service, and we love to be able to support our furry friends.**
 
