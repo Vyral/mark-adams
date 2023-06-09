@@ -4,7 +4,7 @@ title: 'Celebrating Our Pets and Community: Highlights From Our Recent Events'
 date: 2023-05-24 07:00:00
 tags:
   - Fun Stuff
-excerpt: Sharing highlights from our recent events, which were successful.
+excerpt: Sharing highlights from our recent events, which were fun and fulfilling.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
