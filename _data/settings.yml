@@ -64,7 +64,7 @@ second_sidebar_CTA:
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
     CTA_link_text3: Client Testimonials
-    CTA_url3: https://www.markadamsteam.com/testimonials/
+    CTA_url3: https://homeiswherethedogisrva.com/
 lender:
   show_section: true
   header_text: Local Lender
