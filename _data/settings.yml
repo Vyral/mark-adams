@@ -44,9 +44,9 @@ forms:
   sitekey: 6LcKHSsaAAAAAI1B5pfFwBPg65Q8n9GjNlAQhhMU
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.markadamsteam.com/home-worth
+  first_CTA_URL: https://homeiswherethedogisrva.com/home-value
   second_CTA_text: Home Search
-  second_CTA_URL: https://homeiswherethedogisrva.com/home-value
+  second_CTA_URL: https://homeiswherethedogisrva.com/home-search
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Richmond Home Worth?
