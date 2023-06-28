@@ -54,13 +54,13 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: https://www.markadamsteam.com/home-worth
+    CTA_url: https://homeiswherethedogisrva.com/home-value
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: Looking for a Richmond Home?
     CTA_text2: Search the entire MLS for your Richmond home.
     CTA_link_text2: Search the MLS
-    CTA_url2: https://markadams.exprealty.com/
+    CTA_url2: https://homeiswherethedogisrva.com/home-search
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
     CTA_link_text3: Client Testimonials
@@ -114,9 +114,9 @@ podcast:
   author: Mark Adams
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: '/uploads/logo.png'
+  hero_logo_path: /uploads/logo.png
   logo_width_number: 80
-  hero_text: "RICHMOND REAL ESTATE VIDEO BLOG"
+  hero_text: RICHMOND REAL ESTATE VIDEO BLOG
   hero_background_hex: '#999999'
   hero_image_path: /uploads/bg.png
   post_cover: /img/cover.jpg
