@@ -18,8 +18,6 @@ youtube_code: KHo_Qi9DB3o
 
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 When it comes to safeguarding your most valuable possessions, a digital video inventory can be an invaluable tool. Here are some essential tips on creating a comprehensive and reliable video inventory to ensure you have adequate documentation in case of loss or damage. Whether you're concerned about theft, natural disasters, or unforeseen incidents, a well-prepared video inventory can provide the evidence you need to support your claims.
 
 The first step in creating a robust digital video inventory is to ensure that it **includes a clear and accurate date and time stamp.** This timestamp is crucial for establishing the timeline of events, especially in the event of an incident. Make sure the date and time display are visible and legible in the video.
@@ -27,6 +25,8 @@ The first step in creating a robust digital video inventory is to ensure that it
 Clearly **state the location** of the property being recorded in the video. Focus on capturing key details that can help identify the property's address and specific areas within it. This information will aid in verifying the authenticity of the video and its relevance to your claims.
 
 Pay special attention to recording **the entry points** of your property, such as doors, windows, and any other potential access points. These are often the areas most vulnerable to break-ins and can be crucial for insurance claims or police investigations.
+
+{% include pullquote.html %}
 
 If you have a **security system** installed, ensure that the video captures its status and any alarm triggers during the incident. This footage can serve as crucial evidence, providing insight into the security measures in place at the time of the event.
 
